@@ -14,6 +14,7 @@ dutch-class/
 ├── handouts/              # Student-facing handout materials
 ├── lessons/
 │   ├── 2026-Q2_Apr-Jun/          # Active course (Apr–Jun 2026)
+│   │   ├── README.md             # Quarter overview and quick links
 │   │   ├── schedule.md           # Full 20-session schedule with dates, units, and topics
 │   │   └── week-01/ … week-10/   # Per-week lesson plans (two sessions each, full content)
 │   └── templates/
