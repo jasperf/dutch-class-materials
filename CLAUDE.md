@@ -24,3 +24,8 @@ This is **not a software project**. It is a personal archive of materials for Du
 - Working with `lessons/` markdown files (lesson plans, schedules)
 - Organizing or renaming documents
 - Setting up a new course quarter
+
+## Git Commits
+
+- Do **not** add `Co-Authored-By: Claude` or any AI attribution lines to commit messages.
+- Use atomic commits: one logical change per commit.
