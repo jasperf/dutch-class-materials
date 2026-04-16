@@ -1,0 +1,14 @@
+# macOS metadata
+.DS_Store
+
+# Copyrighted books — do not distribute
+books/
+
+# Private admin documents (contracts, receipts, bank scans)
+admin/
+
+# Class diaries — may contain personal information
+diaries/
+
+# Local Vibe CLI config
+.vibe/
