@@ -1,8 +1,9 @@
 # Week 1
 
-**S1 (Wed 22 Apr):** Pronunciation + Unit 01 — *hallo, kom binnen!* — book pp xi + 1–10
-**S2 (Sun 26 Apr):** Unit 02 — *wat doe je?* — book pp 11–20
-**Cumulative hours:** 4
+**S1 (Mon 21 Apr):** Pronunciation + Unit 01 — *hallo, kom binnen!* — book pp xi + 1–10
+**S2 (Thu 24 Apr):** Unit 02 — *wat doe je?* — book pp 11–20
+**S3 (Sun 26 Apr):** Unit 03 — *waar woon je?* — book pp 21–36
+**Cumulative hours:** 6
 
 ---
 
@@ -116,6 +117,66 @@ Note: **jij → je** after inversion: *Spreek **je** ook Duits?* (not jij)
 ### Homework
 - Write 6 sentences: introduce yourself, family members, languages, nationality
 - Conjugate hebben from memory (written)
+
+---
+
+## S3 — Unit 03: waar woon je? (pp 21–36)
+
+**Unit 03 themes:** Asking and answering questions about accommodation · talking about the surrounding area · talking about your living arrangements
+
+### Objectives
+- [ ] Student can describe where and how they live
+- [ ] Student understands de/het articles and can use them reliably
+- [ ] Student can use er is / er zijn (there is / there are)
+
+### Agenda
+| Time | Activity |
+|------|----------|
+| 0:00–0:10 | Warm-up: hebben/zijn quiz, inversion practice |
+| 0:10–0:35 | Unit 03 dialogue: open book, read + discuss |
+| 0:35–1:05 | de/het article rules + memorisation strategy |
+| 1:05–1:30 | er is / er zijn + neighbourhood vocabulary |
+| 1:30–1:50 | Role play: describe your home and area |
+| 1:50–2:00 | Homework |
+
+### Vocabulary
+| Dutch | English |
+|-------|---------|
+| Waar woon je? | Where do you live? |
+| Ik woon in… | I live in… |
+| een huis / een flat / een appartement | a house / a flat / an apartment |
+| een kamer huren | to rent a room |
+| de buurt | the neighbourhood |
+| in het centrum | in the centre |
+| buiten de stad | outside the city |
+| er is / er zijn | there is / there are |
+| in de buurt van | near / in the vicinity of |
+| gezellig | cosy, lively (very Dutch concept) |
+| rustig | quiet |
+| druk | busy |
+
+### Grammar — de / het (the)
+Dutch has two genders. There is no reliable rule — **learn each noun with its article**.
+
+| de (common) | het (neuter) |
+|-------------|-------------|
+| de man | het huis |
+| de vrouw | het kind |
+| de stad | het land |
+
+**Shortcuts that always work:**
+- All diminutives (-je): always **het** (het huisje, het kopje)
+- All words ending in -ing, -heid, -schap: always **de**
+- All plurals: always **de**
+
+### Grammar — er is / er zijn
+- **Er is** een supermarkt in de buurt. *(There is a supermarket nearby.)*
+- **Er zijn** veel cafés in het centrum. *(There are many cafés in the centre.)*
+- Negative: **Er is geen** parkeerplaats. / **Er zijn geen** winkels.
+
+### Homework
+- Write a short paragraph (8 sentences) describing your home and neighbourhood
+- Learn 10 de-words and 10 het-words (write them out)
 
 ---
 

@@ -1,121 +1,117 @@
 # Week 7
 
-**S13 (Wed 3 Jun):** Unit 10 continued — simple past in depth
-**S14 (Sun 7 Jun):** Unit 11 — *laten we naar Antwerpen gaan* — book pp 134–151
-**Cumulative hours:** 28
+**S19 (Mon 2 Jun):** Units 15–16 survey + revision — book pp 209–243
+**S20 (Thu 5 Jun):** Final session — conversation test + feedback
+**Spare S21 (Sun 7 Jun):** Buffer if any session was missed
+**Cumulative hours:** 40 ← COURSE COMPLETE
 
 ---
 
-## S13 — Unit 10 continued: simple past in depth
+## S19 — Units 15–16 survey + revision (pp 209–243)
 
-**Focus:** More irregular imperfects · perfect vs. simple past — when to use which · narrative writing
+**Unit 15 themes:** Internet services · travel insurance · money expressions · comparing things
+**Unit 16 themes:** Media in the Netherlands · giving your opinion · structuring information · adverbs
 
 ### Objectives
-- [ ] Student knows the most common irregular imperfect forms
-- [ ] Student understands when Dutch uses imperfect vs. perfect
-- [ ] Student can write a short narrative (story) in the past tense
+- [ ] Student has an overview of Units 15–16 topics for self-study
+- [ ] Student completes 3-min spoken presentation (homework from S18)
+- [ ] All major grammar from the course reviewed
 
 ### Agenda
 | Time | Activity |
 |------|----------|
-| 0:00–0:10 | Homework review: vroeger sentences |
-| 0:10–0:45 | Irregular imperfects — patterns and memorisation |
-| 0:45–1:15 | Perfect vs. imperfect: when to use which in Dutch |
-| 1:15–1:45 | Writing exercise: a short story in the past (10 sentences) |
-| 1:45–1:55 | Share stories, error correction |
-| 1:55–2:00 | Homework |
+| 0:00–0:25 | Spoken presentation (homework from S18) + feedback |
+| 0:25–0:55 | Units 15–16 overview: open book, browse + highlight key points |
+| 0:55–1:25 | Full grammar review: whiteboard summary of entire course |
+| 1:25–1:50 | Mock conversation — teacher plays various roles at random |
+| 1:50–2:00 | Brief for final session |
 
-### Key irregular imperfects
-| Infinitive | Imperfect (ik/hij) | Plural |
-|-----------|-------------------|--------|
-| zijn | was | waren |
-| hebben | had | hadden |
-| gaan | ging | gingen |
-| komen | kwam | kwamen |
-| zien | zag | zagen |
-| doen | deed | deden |
-| zeggen | zei | zeiden |
-| schrijven | schreef | schreven |
-| rijden | reed | reden |
-| kopen | kocht | kochten |
-| brengen | bracht | brachten |
-| denken | dacht | dachten |
-| weten | wist | wisten |
-| staan | stond | stonden |
-| lopen | liep | liepen |
+### Unit 15 highlights (self-study)
+| Topic | Key vocabulary |
+|-------|---------------|
+| Internet / tech | de website, surfen op het internet, downloaden, uploaden |
+| Travel insurance | de reisverzekering, verzekerd zijn, schade melden |
+| Money expressions | lenen, terugbetalen, rente, op afbetaling kopen |
+| Comparing | even … als (as … as), meer … dan (more … than), minder … dan |
 
-### Perfect vs. imperfect — the Dutch rule
-| Use **perfect** | Use **imperfect** |
-|----------------|-----------------|
-| Spoken Dutch for all past events | Written narratives, novels, news |
-| Ik heb gisteren gewerkt | zijn, hebben in all registers |
-| Conversation about the past | Modal verbs (moest, kon, wilde, mocht) |
-| | Describing a state (was, had) |
+### Unit 16 highlights (self-study)
+| Topic | Key vocabulary |
+|-------|---------------|
+| Media | de krant, het journaal, de uitzending, de kijker |
+| Opinions | naar mijn mening, ik ben van mening dat, ik vind dat |
+| Structuring | ten eerste, ten tweede, tot slot, bovendien, daarentegen |
+| Adverbs | eigenlijk, waarschijnlijk, misschien, zeker, gelukkig, helaas |
 
-Examples:
-- *Ik was moe.* (I was tired.) — imperfect, state
-- *Hij kon niet komen.* (He couldn't come.) — imperfect, modal
-- *Ik heb gisteren veel gewerkt.* (I worked a lot yesterday.) — perfect, spoken
-
-### Homework
-- Write a paragraph (100–120 words) about a memorable event in your life — past tense
-- Mix perfect and imperfect correctly
+### Full course grammar summary
+| Grammar point | Key rule |
+|--------------|---------|
+| zijn / hebben | Full conjugation from memory |
+| de / het | Learn with every noun; diminutives always het |
+| Plurals | -en, -s, -'s, vowel-change types |
+| Adjective endings | -e everywhere; exception: een + het-word |
+| Modal verbs | + infinitive at end of clause |
+| Negation | niet (verbs/adj) vs. geen (nouns) |
+| Questions | Inversion: V + S; jij → je after inversion |
+| Telling time | half X = X minus 30 min! |
+| Separable verbs | Prefix to end in main clause |
+| Reflexive verbs | me/je/zich/ons |
+| Perfect tense | hebben/zijn + ge…t/d; irregular list |
+| Simple past | stem + -te/-de; irregular list |
+| zullen | offers, suggestions, future |
+| zouden | conditional, polite requests |
+| Subordinate clauses | verb to end; want ≠ omdat |
+| Comparatives | even … als / meer … dan |
 
 ---
 
-## S14 — Unit 11: laten we naar Antwerpen gaan (pp 134–151)
-
-**Unit 11 themes:** Expressing likes and dislikes · saying something is or isn't a good idea · making suggestions · talking about food · saying 'no' politely
+## S20 — Final session (Thu 5 Jun)
 
 ### Objectives
-- [ ] Student can make and respond to suggestions
-- [ ] Student can express likes and dislikes more nuancedly
-- [ ] Student can use laten we… and Zullen we…? for suggestions
+- [ ] Extended conversation test: 40 minutes of unscripted Dutch
+- [ ] Student receives written assessment with scores
+- [ ] Discuss next steps, celebrate completing 40 hours
 
 ### Agenda
 | Time | Activity |
 |------|----------|
-| 0:00–0:10 | Homework review: past tense narrative correction |
-| 0:10–0:35 | Unit 11 dialogue: open book, read + discuss |
-| 0:35–1:05 | Making suggestions: laten we / zullen we / wat dacht je van |
-| 1:05–1:35 | Likes/dislikes: houden van, een hekel hebben aan, vinden |
-| 1:35–1:50 | Role play: planning a day trip (make suggestions, agree/disagree) |
-| 1:50–2:00 | Homework |
+| 0:00–0:10 | Warm-up: favourite Dutch word or phrase from the course |
+| 0:10–0:50 | Conversation test: teacher plays 4–5 different scenarios |
+| 0:50–1:20 | Written feedback: go through assessment together |
+| 1:20–1:40 | Next steps: resources, what to do after the course |
+| 1:40–2:00 | Questions, celebration, goodbye |
 
-### Vocabulary — Suggestions & opinions
-| Dutch | English |
-|-------|---------|
-| Laten we naar Antwerpen gaan! | Let's go to Antwerp! |
-| Zullen we …? | Shall we …? |
-| Wat dacht je van …? | What about …? |
-| Dat lijkt me leuk / goed idee! | That sounds fun / good idea! |
-| Dat lijkt me niks / geen goed idee | That doesn't appeal to me |
-| Ik houd van… | I love… |
-| Ik houd niet van… | I don't like… |
-| Ik heb een hekel aan… | I can't stand… / I hate… |
-| Ik vind het heerlijk | I think it's wonderful |
-| Nee, liever niet | No, I'd rather not |
+### Conversation test scenarios (pick 4–5)
+- [ ] Meeting someone new at a party — introduce yourself + ask about them (Unit 01–02)
+- [ ] Asking for directions and following them (Unit 05)
+- [ ] Buying items at a market (Unit 04)
+- [ ] Buying a train ticket + discussing travel plans (Unit 07)
+- [ ] Talking about last weekend using the perfect tense (Unit 08)
+- [ ] Planning a day out — make suggestions, agree/disagree (Unit 11)
+- [ ] A phone call to arrange a meeting (Unit 12)
+- [ ] Talking about your career goals using subordinate clauses (Unit 13)
+- [ ] Describing how you feel today and why (Unit 14)
 
-### Grammar — houden van vs. vinden
-- **houden van** + noun: *Ik houd van kaas.* / *Ik houd van haar.*
-- **vinden** + adjective: *Ik vind kaas lekker.* / *Ik vind het mooi.*
-- **een hekel hebben aan** + noun: *Ik heb een hekel aan drukte.*
+### Assessment rubric
+| Area | Max pts |
+|------|---------|
+| Pronunciation | 20 |
+| Grammar accuracy | 25 |
+| Vocabulary range | 20 |
+| Fluency & communication | 25 |
+| Listening comprehension | 10 |
+| **Total** | **100** |
 
-### Grammar — Saying 'no' in Dutch
-Dutch has several levels of refusal:
-| Dutch | Tone |
-|-------|------|
-| Nee, dank je | Neutral no |
-| Nee, liever niet | Polite no (I'd rather not) |
-| Dat zie ik niet zo zitten | I'm not keen on that |
-| Ik heb er geen zin in | I don't feel like it |
-| Dat is geen goed idee | That's not a good idea |
-
-### Homework
-- Write a short text: plan a day out with a friend — include 3 suggestions, 1 disagreement, 1 compromise
-- Learn houden van / hekel hebben aan with 5 examples of each
+### Next steps for the student
+- **Level reached:** A2 (CEFR) — functional in everyday situations
+- **Book chapters for self-study:** Units 15–16 (+ key to exercises p. 244, appendix p. 262)
+- **To reach B1:**
+  - NT2 (Nederlands als Tweede Taal) online exercises
+  - Graded readers A2/B1
+  - Dutch news: nos.nl, nieuws.nl
+  - Streaming: Dutch subtitles on Netflix / NPO Start
+  - Conversation exchange: Tandem or HelloTalk app
 
 ---
 
 ## Week 7 notes
-_[Fill in after teaching]_
+_[Fill in after teaching — include final assessment scores and feedback]_

@@ -1,68 +1,9 @@
 # Week 2
 
-**S3 (Wed 29 Apr):** Unit 03 — *waar woon je?* — book pp 21–36
-**S4 (Sun 3 May):** Unit 04 — *de boodschappen* — book pp 37–50
-**Cumulative hours:** 8
-
----
-
-## S3 — Unit 03: waar woon je? (pp 21–36)
-
-**Unit 03 themes:** Asking and answering questions about accommodation · talking about the surrounding area · talking about your living arrangements
-
-### Objectives
-- [ ] Student can describe where and how they live
-- [ ] Student understands de/het articles and can use them reliably
-- [ ] Student can use er is / er zijn (there is / there are)
-
-### Agenda
-| Time | Activity |
-|------|----------|
-| 0:00–0:10 | Warm-up: hebben/zijn quiz, inversion practice |
-| 0:10–0:35 | Unit 03 dialogue: open book, read + discuss |
-| 0:35–1:05 | de/het article rules + memorisation strategy |
-| 1:05–1:30 | er is / er zijn + neighbourhood vocabulary |
-| 1:30–1:50 | Role play: describe your home and area |
-| 1:50–2:00 | Homework |
-
-### Vocabulary
-| Dutch | English |
-|-------|---------|
-| Waar woon je? | Where do you live? |
-| Ik woon in… | I live in… |
-| een huis / een flat / een appartement | a house / a flat / an apartment |
-| een kamer huren | to rent a room |
-| de buurt | the neighbourhood |
-| in het centrum | in the centre |
-| buiten de stad | outside the city |
-| er is / er zijn | there is / there are |
-| in de buurt van | near / in the vicinity of |
-| gezellig | cosy, lively (very Dutch concept) |
-| rustig | quiet |
-| druk | busy |
-
-### Grammar — de / het (the)
-Dutch has two genders. There is no reliable rule — **learn each noun with its article**.
-
-| de (common) | het (neuter) |
-|-------------|-------------|
-| de man | het huis |
-| de vrouw | het kind |
-| de stad | het land |
-
-**Shortcuts that always work:**
-- All diminutives (-je): always **het** (het huisje, het kopje)
-- All words ending in -ing, -heid, -schap: always **de**
-- All plurals: always **de**
-
-### Grammar — er is / er zijn
-- **Er is** een supermarkt in de buurt. *(There is a supermarket nearby.)*
-- **Er zijn** veel cafés in het centrum. *(There are many cafés in the centre.)*
-- Negative: **Er is geen** parkeerplaats. / **Er zijn geen** winkels.
-
-### Homework
-- Write a short paragraph (8 sentences) describing your home and neighbourhood
-- Learn 10 de-words and 10 het-words (write them out)
+**S4 (Mon 28 Apr):** Unit 04 — *de boodschappen* — book pp 37–50
+**S5 (Thu 1 May):** Unit 05 — *weet u de weg?* — book pp 51–63
+**S6 (Sun 3 May):** Unit 06 — *leuke schoenen!* — book pp 64–77
+**Cumulative hours:** 12
 
 ---
 
@@ -120,6 +61,120 @@ Dutch has two genders. There is no reliable rule — **learn each noun with its 
 ### Homework
 - Write a shopping list dialogue (10 lines) at the market
 - Write the plural form of 15 nouns from this unit
+
+---
+
+## S5 — Unit 05: weet u de weg? (pp 51–63)
+
+**Unit 05 themes:** Asking for and giving directions · asking for information
+
+### Objectives
+- [ ] Student can ask for directions and understand a basic response
+- [ ] Student can give directions using imperative forms
+- [ ] Student knows places in town and location prepositions
+
+### Agenda
+| Time | Activity |
+|------|----------|
+| 0:00–0:10 | Warm-up: modal verb sentences + plurals check |
+| 0:10–0:35 | Unit 05 dialogue: open book, read + discuss |
+| 0:35–1:05 | Directions vocabulary + location prepositions |
+| 1:05–1:35 | Imperatives: how to give instructions in Dutch |
+| 1:35–1:50 | Role play: asking directions in the street |
+| 1:50–2:00 | Homework |
+
+### Vocabulary — Directions
+| Dutch | English |
+|-------|---------|
+| Weet u de weg naar…? | Do you know the way to…? |
+| Hoe kom ik bij…? | How do I get to…? |
+| rechtdoor | straight ahead |
+| links / rechts | left / right |
+| de eerste / tweede straat | the first / second street |
+| aan de linkerkant / rechterkant | on the left / right side |
+| bij het stoplicht / op de hoek | at the traffic light / on the corner |
+| tegenover | opposite |
+| naast | next to |
+| vlakbij | very near |
+| ver weg | far away |
+| het postkantoor / het ziekenhuis | post office / hospital |
+| het stadhuis / het station | town hall / station |
+
+### Grammar — Imperatives
+The imperative = the verb stem alone:
+- **gaan → ga**: *Ga rechtdoor!*
+- **nemen → neem**: *Neem de tweede straat links.*
+- **volgen → volg**: *Volg deze weg.*
+- **afslaan → sla … af**: *Sla linksaf.* (note: separable verb splits)
+
+Polite imperative with u: add **t** → *Gaat u rechtdoor.*
+
+### Grammar — Prepositions of place
+| in | op | aan | bij | naast | tegenover | achter | voor | tussen |
+|----|----|-----|-----|-------|-----------|--------|------|--------|
+| in | on | at/on | near | next to | opposite | behind | in front of | between |
+
+### Homework
+- Draw a simple street map and write directions from A to B (in Dutch, 8+ steps)
+
+---
+
+## S6 — Unit 06: leuke schoenen! (pp 64–77)
+
+**Unit 06 themes:** Describing things · colours · clothes · saying whether you like something or not
+
+### Objectives
+- [ ] Student can describe clothing and colours
+- [ ] Student can say whether they like something (vinden + adjective)
+- [ ] Student understands adjective endings (the -e rule)
+
+### Agenda
+| Time | Activity |
+|------|----------|
+| 0:00–0:10 | Warm-up: directions role play (student gives directions) |
+| 0:10–0:35 | Unit 06 dialogue: open book, read + discuss |
+| 0:35–1:05 | Adjective endings: the -e rule (the one exception) |
+| 1:05–1:30 | Clothes + colours vocabulary drill |
+| 1:30–1:50 | Role play: shopping for clothes, giving opinions |
+| 1:50–2:00 | Homework |
+
+### Vocabulary — Clothes & colours
+| Dutch | English | Dutch | English |
+|-------|---------|-------|---------|
+| de schoenen | shoes | de broek | trousers |
+| de jas | coat/jacket | het overhemd | shirt |
+| de jurk | dress | de rok | skirt |
+| de trui | jumper/sweater | rood | red |
+| blauw | blue | groen | green |
+| geel | yellow | wit | white |
+| zwart | black | grijs | grey |
+| bruin | brown | licht/donker | light/dark |
+
+### Expressing opinions
+| Dutch | English |
+|-------|---------|
+| Ik vind het mooi / lelijk | I think it's nice / ugly |
+| Ik vind het te groot / klein | I think it's too big / small |
+| Het staat je goed! | It suits you! |
+| Wat vind je ervan? | What do you think of it? |
+| Ik ben er gek op | I love it (lit. I'm crazy about it) |
+| Ik vind het niks | I don't like it at all |
+
+### Grammar — Adjective endings
+Adjectives get **-e** in almost all cases. Only exception: **een + het-word** (indefinite singular neuter).
+
+| | de-word | het-word |
+|-|---------|---------|
+| Indefinite | een **mooie** jas | een **mooi** huis ← no -e |
+| Definite | de **mooie** jas | het **mooie** huis |
+| Plural | de **mooie** jassen | de **mooie** huizen |
+| Predicative | De jas is **mooi** | Het huis is **mooi** |
+
+Memory rule: **een + het-word = no -e**. Everywhere else: always add -e.
+
+### Homework
+- Write 10 noun phrases with adjectives (mix of de/het, definite/indefinite)
+- Describe what you are wearing today in Dutch (5+ sentences)
 
 ---
 

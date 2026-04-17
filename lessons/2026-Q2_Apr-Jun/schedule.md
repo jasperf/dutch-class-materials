@@ -1,9 +1,9 @@
 # Dutch Course Schedule — April–June 2026
 
 **Total hours:** 40 (20 sessions × 2 hrs)
-**First session:** Wed 22 Apr 2026
-**Pattern:** Wednesday + Sunday
-**Finish:** Sun 28 Jun 2026 (spare: Wed 1 Jul)
+**First session:** Mon 21 Apr 2026
+**Pattern:** Monday + Thursday (4:45–6:45 pm) · Sunday (10:00 am–12:00)
+**Finish:** Thu 5 Jun 2026 (spare: Sun 7 Jun)
 **Textbook:** *Dutch* — Gerdi Quist & Dennis Strik (Teach Yourself, 2003)
 
 ---
@@ -36,44 +36,41 @@
 
 | # | Date | Day | Hrs | Cumul. | Unit | Book pages | Topic |
 |---|------|-----|-----|--------|------|-----------|-------|
-| S1 | 22 Apr | Wed | 2 | 2 | Pronunciation + 01 | xi + 1–10 | Pronunciation; introductions, greetings, drinks |
-| S2 | 26 Apr | Sun | 2 | 4 | 02 | 11–20 | Jobs, family, languages, nationality |
-| S3 | 29 Apr | Wed | 2 | 6 | 03 | 21–36 | Housing, accommodation, neighbourhood |
-| S4 | 3 May | Sun | 2 | 8 | 04 | 37–50 | Groceries, shopping, quantities, money |
-| S5 | 6 May | Wed | 2 | 10 | 05 | 51–63 | Directions, places in town |
-| S6 | 10 May | Sun | 2 | 12 | 06 | 64–77 | Clothes, colours, adjectives, opinions |
-| S7 | 13 May | Wed | 2 | 14 | 07 | 78–92 | Public transport, buying tickets |
-| S8 | 17 May | Sun | 2 | 16 | 07 cont. + review | 78–92 | Telling the time, separable verbs; Units 1–7 review |
-| S9 | 20 May | Wed | 2 | 18 | 08 | 93–108 | Past tense (perfect); holidays, weather |
-| S10 | 24 May | Sun | 2 | 20 | Midpoint review | — | Full conversation review, diagnose weak spots |
-| S11 | 27 May | Wed | 2 | 22 | 09 | 109–120 | Invitations, dinner, preferences, zullen |
-| S12 | 31 May | Sun | 2 | 24 | 10 | 121–133 | Times of day/week/year; simple past intro |
-| S13 | 3 Jun | Wed | 2 | 26 | 10 cont. | 121–133 | Simple past (imperfect), used to (vroeger) |
-| S14 | 7 Jun | Sun | 2 | 28 | 11 | 134–151 | Suggestions, likes/dislikes, talking about food |
-| S15 | 10 Jun | Wed | 2 | 30 | 12 | 152–173 | Phone calls, zouden, prepositions |
-| S16 | 14 Jun | Sun | 2 | 32 | 12 cont. | 152–173 | Zouden in depth; preposition practice |
-| S17 | 17 Jun | Wed | 2 | 34 | 13 | 174–192 | Subordinate clauses, career, skills |
-| S18 | 21 Jun | Sun | 2 | 36 | 14 | 193–208 | Health, emotions, hoe je je voelt |
-| S19 | 24 Jun | Wed | 2 | 38 | 15 + 16 survey + revision | 209–243 | Internet/money + media/opinion; revision |
-| S20 | 28 Jun | Sun | 2 | 40 | Final | — | Conversation test, feedback, next steps |
-| S21 | 1 Jul | Wed | — | spare | — | — | Buffer if any session was missed |
+| S1 | 21 Apr | Mon | 2 | 2 | Pronunciation + 01 | xi + 1–10 | Pronunciation; introductions, greetings, drinks |
+| S2 | 24 Apr | Thu | 2 | 4 | 02 | 11–20 | Jobs, family, languages, nationality |
+| S3 | 26 Apr | Sun | 2 | 6 | 03 | 21–36 | Housing, accommodation, neighbourhood |
+| S4 | 28 Apr | Mon | 2 | 8 | 04 | 37–50 | Groceries, shopping, quantities, money |
+| S5 | 1 May | Thu | 2 | 10 | 05 | 51–63 | Directions, places in town |
+| S6 | 3 May | Sun | 2 | 12 | 06 | 64–77 | Clothes, colours, adjectives, opinions |
+| S7 | 5 May | Mon | 2 | 14 | 07 | 78–92 | Public transport, buying tickets |
+| S8 | 8 May | Thu | 2 | 16 | 07 cont. + review | 78–92 | Telling the time, separable verbs; Units 1–7 review |
+| S9 | 10 May | Sun | 2 | 18 | 08 | 93–108 | Past tense (perfect); holidays, weather |
+| S10 | 12 May | Mon | 2 | 20 | Midpoint review | — | Full conversation review, diagnose weak spots |
+| S11 | 15 May | Thu | 2 | 22 | 09 | 109–120 | Invitations, dinner, preferences, zullen |
+| S12 | 17 May | Sun | 2 | 24 | 10 | 121–133 | Times of day/week/year; simple past intro |
+| S13 | 19 May | Mon | 2 | 26 | 10 cont. | 121–133 | Simple past (imperfect), used to (vroeger) |
+| S14 | 22 May | Thu | 2 | 28 | 11 | 134–151 | Suggestions, likes/dislikes, talking about food |
+| S15 | 25 May | Sun | 2 | 30 | 12 | 152–173 | Phone calls, zouden, prepositions |
+| S16 | 26 May | Mon | 2 | 32 | 12 cont. | 152–173 | Zouden in depth; preposition practice |
+| S17 | 29 May | Thu | 2 | 34 | 13 | 174–192 | Subordinate clauses, career, skills |
+| S18 | 1 Jun | Sun | 2 | 36 | 14 | 193–208 | Health, emotions, hoe je je voelt |
+| S19 | 2 Jun | Mon | 2 | 38 | 15 + 16 survey + revision | 209–243 | Internet/money + media/opinion; revision |
+| S20 | 5 Jun | Thu | 2 | 40 | Final | — | Conversation test, feedback, next steps |
+| S21 | 7 Jun | Sun | — | spare | — | — | Buffer if any session was missed |
 
 ---
 
 ## Progress tracker
 
-| Week | Session A (Wed) | Session B (Sun) | Hrs | Notes |
-|------|----------------|----------------|-----|-------|
-| 1 | S1 Wed 22 Apr ☐ | S2 Sun 26 Apr ☐ | | |
-| 2 | S3 Wed 29 Apr ☐ | S4 Sun 3 May ☐ | | |
-| 3 | S5 Wed 6 May ☐ | S6 Sun 10 May ☐ | | |
-| 4 | S7 Wed 13 May ☐ | S8 Sun 17 May ☐ | | |
-| 5 | S9 Wed 20 May ☐ | S10 Sun 24 May ☐ | | |
-| 6 | S11 Wed 27 May ☐ | S12 Sun 31 May ☐ | | |
-| 7 | S13 Wed 3 Jun ☐ | S14 Sun 7 Jun ☐ | | |
-| 8 | S15 Wed 10 Jun ☐ | S16 Sun 14 Jun ☐ | | |
-| 9 | S17 Wed 17 Jun ☐ | S18 Sun 21 Jun ☐ | | |
-| 10 | S19 Wed 24 Jun ☐ | S20 Sun 28 Jun ☐ | | |
+| Week | Session A (Mon) | Session B (Thu) | Session C (Sun) | Hrs | Notes |
+|------|----------------|----------------|----------------|-----|-------|
+| 1 | S1 Mon 21 Apr ☐ | S2 Thu 24 Apr ☐ | S3 Sun 26 Apr ☐ | | |
+| 2 | S4 Mon 28 Apr ☐ | S5 Thu 1 May ☐ | S6 Sun 3 May ☐ | | |
+| 3 | S7 Mon 5 May ☐ | S8 Thu 8 May ☐ | S9 Sun 10 May ☐ | | |
+| 4 | S10 Mon 12 May ☐ | S11 Thu 15 May ☐ | S12 Sun 17 May ☐ | | |
+| 5 | S13 Mon 19 May ☐ | S14 Thu 22 May ☐ | S15 Sun 25 May ☐ | | |
+| 6 | S16 Mon 26 May ☐ | S17 Thu 29 May ☐ | S18 Sun 1 Jun ☐ | | |
+| 7 | S19 Mon 2 Jun ☐ | S20 Thu 5 Jun ☐ | — | | |
 
 ---
 
