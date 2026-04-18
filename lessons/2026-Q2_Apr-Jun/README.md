@@ -6,7 +6,7 @@ This directory contains all lesson plans, schedules, and materials for the Dutch
 
 | Item | Details |
 |------|---------|
-| **Course Period** | 21 April – 5 June 2026 |
+| **Course Period** | 20 April – 4 June 2026 |
 | **Total Duration** | 7 weeks |
 | **Total Hours** | 40 hours (20 sessions × 2 hours) |
 | **Schedule** | Monday + Thursday (4:45–6:45 pm) · Sunday (10:00 am–12:00) |
