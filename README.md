@@ -19,6 +19,8 @@ dutch-class/
 │   │   └── week-01/ … week-07/   # Per-week lesson plans (three sessions each, full content)
 │   └── templates/
 │       └── lesson-plan-template.md
+├── docs/
+│   └── pdf-export.md      # How to export markdown files to PDF (Pandoc + LuaLaTeX)
 └── notes/
     └── teaching-notes.md  # Course overview and PDF split map
 ```
@@ -138,3 +140,9 @@ mkdir -p diaries/YYYY
 ### 6. File handouts
 
 Put any new student-facing materials under `handouts/` as you prepare each session.
+
+---
+
+## Exporting to PDF
+
+See [`docs/pdf-export.md`](docs/pdf-export.md) for install instructions (Pandoc + BasicTeX) and the exact commands to export any schedule or lesson plan to PDF.
