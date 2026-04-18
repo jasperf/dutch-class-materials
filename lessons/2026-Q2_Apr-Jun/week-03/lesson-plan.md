@@ -1,7 +1,7 @@
 # Week 3
 
-**S7 (Mon 5 May):** Unit 07 — *mag ik een retourtje Wageningen?* — book pp 78–92
-**S8 (Thu 8 May):** Unit 07 continued + Units 1–7 review
+**S7 (Mon 4 May):** Unit 07 — *mag ik een retourtje Wageningen?* — book pp 78–92
+**S8 (Thu 7 May):** Unit 07 continued + Units 1–7 review
 **S9 (Sun 10 May):** Unit 08 — *heeft u een leuke vakantie gehad?* — book pp 93–108
 **Cumulative hours:** 18
 

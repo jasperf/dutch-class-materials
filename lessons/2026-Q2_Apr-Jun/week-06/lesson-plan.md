@@ -1,8 +1,8 @@
 # Week 6
 
-**S16 (Mon 26 May):** Unit 12 continued — zouden in depth + prepositions
-**S17 (Thu 29 May):** Unit 13 — *ik weet echt niet wat ik wil* — book pp 174–192
-**S18 (Sun 1 Jun):** Unit 14 — *ik begrijp precies hoe je je voelt* — book pp 193–208
+**S16 (Mon 25 May):** Unit 12 continued — zouden in depth + prepositions
+**S17 (Thu 28 May):** Unit 13 — *ik weet echt niet wat ik wil* — book pp 174–192
+**S18 (Sun 31 May):** Unit 14 — *ik begrijp precies hoe je je voelt* — book pp 193–208
 **Cumulative hours:** 36
 
 ---

@@ -1,7 +1,7 @@
 # Week 4
 
-**S10 (Mon 12 May):** Midpoint review — no new pages
-**S11 (Thu 15 May):** Unit 09 — *ik heb bloemen voor je meegebracht* — book pp 109–120
+**S10 (Mon 11 May):** Midpoint review — no new pages
+**S11 (Thu 14 May):** Unit 09 — *ik heb bloemen voor je meegebracht* — book pp 109–120
 **S12 (Sun 17 May):** Unit 10 — *vroeger* — book pp 121–133
 **Cumulative hours:** 24 ← HALFWAY
 

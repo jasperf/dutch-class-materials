@@ -1,7 +1,7 @@
 # Week 1
 
-**S1 (Mon 21 Apr):** Pronunciation + Unit 01 — *hallo, kom binnen!* — book pp xi + 1–10
-**S2 (Thu 24 Apr):** Unit 02 — *wat doe je?* — book pp 11–20
+**S1 (Mon 20 Apr):** Pronunciation + Unit 01 — *hallo, kom binnen!* — book pp xi + 1–10
+**S2 (Thu 23 Apr):** Unit 02 — *wat doe je?* — book pp 11–20
 **S3 (Sun 26 Apr):** Unit 03 — *waar woon je?* — book pp 21–36
 **Cumulative hours:** 6
 

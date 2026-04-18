@@ -1,8 +1,8 @@
 # Week 5
 
-**S13 (Mon 19 May):** Unit 10 continued — simple past in depth
-**S14 (Thu 22 May):** Unit 11 — *laten we naar Antwerpen gaan* — book pp 134–151
-**S15 (Sun 25 May):** Unit 12 — *ik stuur je wel een sms-je* — book pp 152–173
+**S13 (Mon 18 May):** Unit 10 continued — simple past in depth
+**S14 (Thu 21 May):** Unit 11 — *laten we naar Antwerpen gaan* — book pp 134–151
+**S15 (Sun 24 May):** Unit 12 — *ik stuur je wel een sms-je* — book pp 152–173
 **Cumulative hours:** 30
 
 ---

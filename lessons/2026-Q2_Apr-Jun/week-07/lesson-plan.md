@@ -1,7 +1,7 @@
 # Week 7
 
-**S19 (Mon 2 Jun):** Units 15–16 survey + revision — book pp 209–243
-**S20 (Thu 5 Jun):** Final session — conversation test + feedback
+**S19 (Mon 1 Jun):** Units 15–16 survey + revision — book pp 209–243
+**S20 (Thu 4 Jun):** Final session — conversation test + feedback
 **Spare S21 (Sun 7 Jun):** Buffer if any session was missed
 **Cumulative hours:** 40 ← COURSE COMPLETE
 

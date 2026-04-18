@@ -1,7 +1,7 @@
 # Week 2
 
-**S4 (Mon 28 Apr):** Unit 04 — *de boodschappen* — book pp 37–50
-**S5 (Thu 1 May):** Unit 05 — *weet u de weg?* — book pp 51–63
+**S4 (Mon 27 Apr):** Unit 04 — *de boodschappen* — book pp 37–50
+**S5 (Thu 30 Apr):** Unit 05 — *weet u de weg?* — book pp 51–63
 **S6 (Sun 3 May):** Unit 06 — *leuke schoenen!* — book pp 64–77
 **Cumulative hours:** 12
 
