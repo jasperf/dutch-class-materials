@@ -2,6 +2,11 @@
 
 This repo uses [Pandoc](https://pandoc.org/) + [LuaLaTeX](https://www.luatex.org/) to convert lesson plans and schedules to print-ready PDFs.
 
+> **DOCX vs PDF:** Converting to `.docx` requires only plain Pandoc — no LuaLaTeX needed.
+> LuaLaTeX is required only for PDF output, because it handles Unicode characters and
+> system fonts during rendering. Word and Google Docs handle that themselves.
+> See `handouts/docx/README.md` for DOCX conversion commands.
+
 ---
 
 ## Prerequisites
