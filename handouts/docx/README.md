@@ -32,6 +32,8 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 
 ## File List
 
+### Session handouts
+
 | # | DOCX Filename | Topic | Unit |
 |---|---------------|-------|------|
 | S1 | s1-hallo-kom-binnen.docx | Pronunciation + Introductions | 01 |
@@ -55,28 +57,93 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 | S19 | s19-units-15-16-survey.docx | Internet, media, revision | 15–16 |
 | S20 | s20-final-session.docx | Final test + feedback | — |
 
+### Reference sheets
+
+| Filename | Description |
+|----------|-------------|
+| reference-numbers-10-100.docx | Numbers 10–100 in Dutch |
+
+### Tests (`tests/`)
+
+| Filename | Session | Topic |
+|----------|---------|-------|
+| s1-test-hallo-kom-binnen.docx | S1 | Pronunciation, introductions, zijn |
+| s2-test-wat-doe-je.docx | S2 | Family, jobs, hebben, inversion |
+| s3-test-waar-woon-je.docx | S3 | Housing, de/het, er is/zijn |
+
 ---
 
 ## Generating / Updating DOCX Files
 
-DOCX files are generated from the markdown source files.
+DOCX files are generated from the markdown source files using [Pandoc](https://pandoc.org/).
+All commands are run from the **project root**.
 
-### Single file (from project root):
+### Requirements
+- Pandoc installed: `brew install pandoc`
+- See [../../docs/pdf-export.md](../../docs/pdf-export.md) for full install instructions
+
+---
+
+### Session handouts
+
+Single file:
 ```bash
 pandoc handouts/s1-hallo-kom-binnen.md -o handouts/docx/s1-hallo-kom-binnen.docx
 ```
 
-### All files (from project root):
+All session handouts at once:
 ```bash
-for f in handouts/*.md; do
+for f in handouts/s*.md; do
   base=$(basename "$f" .md)
   pandoc "$f" -o "handouts/docx/${base}.docx"
 done
 ```
 
-### Requirements
-- [Pandoc](https://pandoc.org/) installed (`brew install pandoc`)
-- See [../../docs/pdf-export.md](../../docs/pdf-export.md) for installation instructions
+---
+
+### Tests
+
+Single test:
+```bash
+pandoc handouts/tests/s1-test-hallo-kom-binnen.md -o handouts/docx/tests/s1-test-hallo-kom-binnen.docx
+```
+
+All tests at once:
+```bash
+for f in handouts/tests/*.md; do
+  base=$(basename "$f" .md)
+  pandoc "$f" -o "handouts/docx/tests/${base}.docx"
+done
+```
+
+---
+
+### Reference sheets
+
+```bash
+pandoc handouts/reference-numbers-10-100.md -o handouts/docx/reference-numbers-10-100.docx
+```
+
+---
+
+### Everything at once
+
+```bash
+# Session handouts
+for f in handouts/s*.md; do
+  pandoc "$f" -o "handouts/docx/$(basename ${f%.md}).docx"
+done
+
+# Tests
+for f in handouts/tests/*.md; do
+  pandoc "$f" -o "handouts/docx/tests/$(basename ${f%.md}).docx"
+done
+
+# Reference sheets
+for f in handouts/reference-*.md; do
+  pandoc "$f" -o "handouts/docx/$(basename ${f%.md}).docx"
+done
+```
 
 ---
 

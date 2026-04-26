@@ -6,17 +6,24 @@ This directory contains **markdown handouts** for each session of the Dutch lang
 
 ```
 handouts/
-├── README.md                    # This file
-├── s01-hallo-kom-binnen.md      # Session 1 handout (markdown)
-├── s02-wat-doe-je.md           # Session 2 handout (markdown)
-├── s03-waar-woon-je.md         # Session 3 handout (markdown)
+├── README.md                          # This file
+├── s1-hallo-kom-binnen.md             # Session handouts (markdown)
+├── s2-wat-doe-je.md
 ├── ...
-└── docx/                       # DOCX versions for Google Docs
-    ├── .gitignore
+├── reference-numbers-10-100.md        # Reference sheet: numbers 10–100
+├── tests/                             # Per-session tests (markdown)
+│   ├── s1-test-hallo-kom-binnen.md
+│   ├── s2-test-wat-doe-je.md
+│   └── s3-test-waar-woon-je.md
+└── docx/                              # DOCX versions for Google Docs (gitignored)
     ├── README.md
-    ├── s01-hallo-kom-binnen.docx
-    ├── s02-wat-doe-je.docx
-    └── ...
+    ├── s1-hallo-kom-binnen.docx
+    ├── ...
+    ├── reference-numbers-10-100.docx
+    └── tests/
+        ├── s1-test-hallo-kom-binnen.docx
+        ├── s2-test-wat-doe-je.docx
+        └── s3-test-waar-woon-je.docx
 ```
 
 ## Session List (20 sessions)

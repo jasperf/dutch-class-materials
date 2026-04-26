@@ -14,6 +14,6 @@ diaries/
 .vibe/
 
 
-# Ignore all DOCX files in handouts/docx/
-handouts/docx/*.docx
+# Ignore all DOCX files anywhere under handouts/
+handouts/**/*.docx
 create-pr.sh

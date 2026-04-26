@@ -12,6 +12,10 @@ dutch-class/
 ├── books/                 # Gitignored (copyrighted — not distributed)
 ├── diaries/               # Gitignored (may contain personal information)
 ├── handouts/              # Student-facing handout materials
+│   ├── s1-hallo-kom-binnen.md … s20-final-session.md  # Session handouts
+│   ├── reference-numbers-10-100.md                    # Reference sheet
+│   ├── tests/             # Per-session tests (markdown source)
+│   └── docx/              # DOCX exports — gitignored (includes docx/tests/)
 ├── lessons/
 │   ├── 2026-Q2_Apr-Jun/          # Active course (Apr–Jun 2026)
 │   │   ├── README.md             # Quarter overview and quick links
