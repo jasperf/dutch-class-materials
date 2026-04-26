@@ -61,11 +61,16 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 
 DOCX files are generated from the markdown source files.
 
-### Command (from project root):
+### Single file (from project root):
 ```bash
-cd handouts
-for f in *.md; do
-  pandoc "$f" -o "docx/${f%.md}.docx"
+pandoc handouts/s1-hallo-kom-binnen.md -o handouts/docx/s1-hallo-kom-binnen.docx
+```
+
+### All files (from project root):
+```bash
+for f in handouts/*.md; do
+  base=$(basename "$f" .md)
+  pandoc "$f" -o "handouts/docx/${base}.docx"
 done
 ```
 
