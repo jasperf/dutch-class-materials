@@ -12,3 +12,8 @@ diaries/
 
 # Local Vibe CLI config
 .vibe/
+
+
+# Ignore all DOCX files in handouts/docx/
+handouts/docx/*.docx
+create-pr.sh
