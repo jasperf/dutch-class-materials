@@ -19,8 +19,11 @@
 ### **1. Voorwaardelijke zinnen (Conditional sentences)**
 **Structuur:** **Als + [onderwerp + werkwoord aan het einde], [hoofdzin met zou(den)]**
 
-- *Als ik meer geld had, **zou** ik een reis maken.*
-- *Als het mooi weer was, **zouden** we buiten zitten.*
+- *Als ik meer geld **had**, **zou** ik een reis maken.*
+- *Als het mooi weer **was**, **zouden** we buiten zitten.*
+- *Als ik geen auto **had**, **zou** ik de trein **nemen**.*
+
+> In de *als-zin* staat het werkwoord **altijd aan het einde**. In de hoofdzin staat *zou(den)* op positie 2.
 
 ---
 
