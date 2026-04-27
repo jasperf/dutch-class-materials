@@ -50,6 +50,26 @@
 
 ---
 
+### **Getallen 0–20**
+
+| **Cijfer** | **Nederlands** | **Cijfer** | **Nederlands** |
+|-----------|----------------|-----------|----------------|
+| 0 | nul | 11 | elf |
+| 1 | een / één | 12 | twaalf |
+| 2 | twee | 13 | dertien |
+| 3 | drie | 14 | veertien |
+| 4 | vier | 15 | vijftien |
+| 5 | vijf | 16 | zestien |
+| 6 | zes | 17 | zeventien |
+| 7 | zeven | 18 | achttien |
+| 8 | acht | 19 | negentien |
+| 9 | negen | 20 | twintig |
+| 10 | tien | | |
+
+⚠ **een vs. één:** Het lidwoord *een* (a/an) heeft geen accent. Het getal *één* (1) krijgt een accent om verwarring te vermijden: *Ik heb **één** broer.*
+
+---
+
 ### **Vraagvorming (Inversie)**
 In het Nederlands komt het werkwoord **altijd op de tweede plaats**.
 
