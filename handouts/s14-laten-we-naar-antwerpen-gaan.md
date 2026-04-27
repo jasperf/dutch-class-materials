@@ -11,6 +11,7 @@
 ✅ Je kunt **voorstellen doen** en erop reageren
 ✅ Je kunt **voorkeuren en afkeuren** nuancerder uiten
 ✅ Je kunt **laten we…** en **Zullen we…?** gebruiken voor suggesties
+✅ Je kunt **vergelijkingen** maken met *even…als* en *meer/minder…dan*
 
 ---
 
@@ -25,6 +26,16 @@
 | Dat lijkt me leuk / goed idee! | That sounds fun / good idea! |
 | Dat lijkt me niks / geen goed idee | That doesn't appeal to me |
 
+### **In het restaurant**
+| **Nederlands** | **Engels** |
+|----------------|------------|
+| de menukaart | the menu |
+| bestellen | to order |
+| de biefstuk | steak |
+| het ijs / het toetje | ice cream / dessert |
+| de vogeltjesmarkt | the bird market (Antwerp) |
+| zoet / zuur / bitter / zout | sweet / sour / bitter / salty |
+
 ### **Voorkeuren & Afkeuren**
 | **Nederlands** | **Engels** |
 |----------------|------------|
@@ -38,19 +49,27 @@
 
 ## **Grammatica**
 
-### **1. Sebastian suggesties machen**
-- **laten we…** *Laten we naarwerpen gaan!*
+### **1. Suggesties doen**
+- **Laten we…** *Laten we naar Antwerpen gaan!*
 - **Zullen we…?** *Zullen we morgen afspreken?*
 - **Wat dacht je van…?** *Wat dacht je van een bezoek aan het museum?*
 
-### **2. houden van vs. vinden**
+### **2. Laten: twee betekenissen**
+*Laten* kan twee dingen betekenen:
+
+| **Gebruik** | **Voorbeeld** |
+|-------------|---------------|
+| Suggestie ("Let's…") | *Laten we naar de markt gaan.* |
+| Iemand iets laten doen ("have/let sb do sth") | *De gids zal ons de stad laten zien.* |
+
+### **3. houden van vs. vinden**
 - **houden van** + zelfstandig naamwoord: *Ik houd van kaas.* / *Ik houd van haar.*
 - **vinden** + bijvoeglijk naamwoord: *Ik vind kaas lekker.* / *Ik vind het mooi.*
 - **een hekel hebben aan** + zelfstandig naamwoord: *Ik heb een hekel aan drukte.*
 
 ---
 
-### **3. "Nee" zeggen in het Nederlands**
+### **4. "Nee" zeggen in het Nederlands**
 
 | **Nederlands** | **Toon** |
 |----------------|----------|
@@ -59,6 +78,15 @@
 | Dat zie ik niet zo zitten | Ik ben daar niet zo dol op |
 | Ik heb er geen zin in | Ik voel me er niet voor |
 | Dat is geen goed idee | Dat is niet slim |
+
+### **5. Vergelijkingen**
+
+| **Structuur** | **Voorbeeld** |
+|---------------|---------------|
+| even … als (equally) | *Dit restaurant is **even lekker als** dat restaurant.* |
+| net zo … als (just as) | *Antwerpen is **net zo groot als** Amsterdam.* |
+| meer … dan (more than) | *Ik vind kaas **lekkerder dan** vlees.* |
+| minder … dan (less than) | *Het is hier **minder druk dan** in Brussel.* |
 
 ---
 
