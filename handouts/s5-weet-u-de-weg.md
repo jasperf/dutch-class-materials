@@ -21,6 +21,9 @@
 |----------------|------------|
 | Weet u de weg naar…? | Do you know the way to…? |
 | Hoe kom ik bij…? | How do I get to…? |
+| Ben je hier bekend? | Do you know the area? |
+| Ik ben hier helemaal niet bekend | I don't know the area at all |
+| Dat geeft niet | That doesn't matter |
 
 ### **Richtingen**
 | **Nederlands** | **Engels** |
@@ -34,6 +37,10 @@
 | **Nederlands** | **Engels** |
 |----------------|------------|
 | bij het stoplicht / op de hoek | at the traffic light / on the corner |
+| voorbij de stoplichten | past the traffic lights |
+| ergens aan de linkerkant | somewhere on the left-hand side |
+| precies | exactly |
+| de kerk | the church |
 | tegenover | opposite |
 | naast | next to |
 | vlakbij | very near |
@@ -54,7 +61,7 @@ De gebiedende wijs = **werkwoordstam** alleen:
 - volgen → **volg**: Volg deze weg.
 - afslaan → **sla … af**: Sla linksaf. (let op: scheidbaar werkwoord!)
 
-**Beleefde vorm met u:** voeg **-t** toe → *Gaat u rechtdoor.*
+**Beleefde vorm met u:** voeg **-t** toe → *Gaat u rechtdoor.* / *Loopt u tot de stoplichten.* / *Slaat u hier linksaf.*
 
 ### **2. Voorzetsels van plaats**
 | **in** | **op** | **aan** | **bij** | **naast** | **tegenover** | **achter** | **voor** | **tussen** |
