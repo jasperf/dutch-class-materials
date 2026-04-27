@@ -34,6 +34,9 @@
 | weten | wist | wisten |
 | staan | stond | stonden |
 | lopen | liep | liepen |
+| geven | gaf | gaven |
+| zitten | zat | zaten |
+| vinden | vond | vonden |
 
 ---
 
@@ -50,6 +53,11 @@
 - *Ik **was** moe.* (I was tired.) — imperfect, toestand
 - *Hij **kon** niet komen.* (He couldn't come.) — imperfect, modaal werkwoord
 - *Ik **heb** gisteren veel **gewerkt**.* (I worked a lot yesterday.) — perfect, gesproken taal
+
+**Imperfect voor gewoonte of herhaling in het verleden (vroeger):**
+- *Ik **speelde** vroeger veel buiten.* (I used to play outside a lot.)
+- *Mijn broertje **huilde** altijd.* (My little brother always cried.)
+- *We **gingen** elke zomer naar de zee.* (We went to the sea every summer.)
 
 ---
 
