@@ -21,14 +21,28 @@
 |----------------|------------|
 | een enkeltje / retourtje | a single / return ticket |
 | eerste / tweede klas | first / second class |
+| het spoor | the (rail) track |
 | het perron | the platform |
 | de vertrektijd / aankomsttijd | departure / arrival time |
 | overstappen | to change (trains/buses) |
+| de directe verbinding | the direct connection |
+| de sneltrein | intercity / express train |
+| de stoptrein | stopping / local train |
 | Hoe laat vertrekt de trein? | What time does the train leave? |
 | Hoe laat komt de bus aan? | What time does the bus arrive? |
 | op tijd / te laat | on time / late |
+| als het goed is | it should be / all going well |
+| de lokettist | booking clerk |
 | de NS | Dutch Railways (Nederlandse Spoorwegen) |
 | de OV-chipkaart | Dutch transit card |
+
+### **In de bus**
+| **Nederlands** | **Engels** |
+|----------------|------------|
+| Kunt u me waarschuwen als we er zijn? | Can you warn me when we get there? |
+| Waar moet ik uitstappen? | Where do I get off? |
+| Waar wilt u naartoe? | Where do you want to go? |
+| Dat hangt ervan af | That depends |
 
 ---
 
@@ -67,7 +81,7 @@ Na een **modaal werkwoord** blijft het werkwoord **bij elkaar** (infinities):
 | 0:10–0:35 | Dialoog Unit 07: boek open, lezen + bespreken |
 | 0:35–1:05 | Tijd vertellen: volledige methode inclusief half en kwart |
 | 1:05–1:35 | Scheidbare werkwoorden: opstaan, aankomen, vertrekken, overstappen |
-| 1:35–1:50 | Rolspel: bij het loket / vragen over treintijden |
+| 1:35–1:50 | Rolspel: bij het loket / in de bus / vragen over treintijden |
 | 1:50–2:00 | Huiswerk toelichten |
 
 ---
