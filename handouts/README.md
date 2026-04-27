@@ -12,7 +12,8 @@ handouts/
 ├── ...
 ├── references/                        # Standalone grammar/vocabulary reference sheets
 │   ├── reference-numbers-10-100.md
-│   └── reference-je-jij-jou.md
+│   ├── reference-je-jij-jou.md
+│   └── reference-bijvoeglijke-naamwoorden.md
 ├── tests/                             # Per-session tests (markdown)
 │   ├── s1-test-hallo-kom-binnen.md
 │   ├── s2-test-wat-doe-je.md
@@ -23,7 +24,8 @@ handouts/
     ├── ...
     ├── references/
     │   ├── reference-numbers-10-100.docx
-    │   └── reference-je-jij-jou.docx
+    │   ├── reference-je-jij-jou.docx
+    │   └── reference-bijvoeglijke-naamwoorden.docx
     └── tests/
         ├── s1-test-hallo-kom-binnen.docx
         ├── s2-test-wat-doe-je.docx

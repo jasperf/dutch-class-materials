@@ -63,6 +63,7 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 |----------|-------------|
 | references/reference-numbers-10-100.docx | Numbers 10–100 in Dutch |
 | references/reference-je-jij-jou.docx | Je / Jij / Jou — tweede persoon enkelvoud |
+| references/reference-bijvoeglijke-naamwoorden.docx | Bijvoeglijke naamwoorden — de -e regel |
 
 ### Tests (`tests/`)
 
