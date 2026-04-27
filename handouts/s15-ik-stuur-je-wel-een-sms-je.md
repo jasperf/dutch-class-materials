@@ -29,6 +29,9 @@
 | De lijn is bezet | The line is busy |
 | Ik stuur je wel een sms-je | I'll just send you a text |
 | bellen / terugbellen / opbellen | to call / to call back / to call up |
+| aannemen | to answer (the phone) |
+| Ik verbind u door | I'll put you through |
+| Het toestel is in gesprek | The extension is engaged |
 
 ---
 
@@ -40,10 +43,15 @@
 - Ik **zal** je helpen. (I will help you.)
 - **Zullen** we gaan? (Shall we go?)
 
-**zouden** = voorwaardelijk / beleefd:
+**zouden** = voorwaardelijk / beleefd / herinnering / advies:
 1. **Voorwaardelijk (hypothetisch):** *Als ik meer tijd had, **zou** ik studeren.*
-2. **Beleefde verzoeken:** ***Zou** u dat kunnen herhalen?*
-3. **Gerapporteerde spraak/advies:** *Hij zei dat ik meer moest studeren.*
+2. **Beleefde verzoeken** (polite request): ***Zou** u dat kunnen herhalen?*
+3. **Herinnering aan een plan** (you were going to…): *Je **zou** nog bellen.* / *We **zouden** om zeven uur afspreken.*
+4. **Advies geven:** *Je **zou** wat vroeger naar bed moeten gaan.*
+
+**zou + willen / kunnen** (extra beleefd):
+- *Zou je dit voor me **willen** faxen?* (Would you mind faxing this?)
+- *Zou ik je pen **kunnen** lenen?* (Could I borrow your pen?)
 
 | **Enkelvoud** | **Meervoud** |
 |---------------|--------------|
