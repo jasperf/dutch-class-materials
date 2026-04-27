@@ -57,11 +57,12 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 | S19 | s19-units-15-16-survey.docx | Internet, media, revision | 15–16 |
 | S20 | s20-final-session.docx | Final test + feedback | — |
 
-### Reference sheets
+### Reference sheets (`references/`)
 
 | Filename | Description |
 |----------|-------------|
-| reference-numbers-10-100.docx | Numbers 10–100 in Dutch |
+| references/reference-numbers-10-100.docx | Numbers 10–100 in Dutch |
+| references/reference-je-jij-jou.docx | Je / Jij / Jou — tweede persoon enkelvoud |
 
 ### Tests (`tests/`)
 
@@ -120,8 +121,16 @@ done
 
 ### Reference sheets
 
+Single file:
 ```bash
-pandoc handouts/reference-numbers-10-100.md -o handouts/docx/reference-numbers-10-100.docx
+pandoc handouts/references/reference-je-jij-jou.md -o handouts/docx/references/reference-je-jij-jou.docx
+```
+
+All reference sheets at once:
+```bash
+for f in handouts/references/reference-*.md; do
+  pandoc "$f" -o "handouts/docx/references/$(basename ${f%.md}).docx"
+done
 ```
 
 ---
@@ -140,8 +149,8 @@ for f in handouts/tests/*.md; do
 done
 
 # Reference sheets
-for f in handouts/reference-*.md; do
-  pandoc "$f" -o "handouts/docx/$(basename ${f%.md}).docx"
+for f in handouts/references/reference-*.md; do
+  pandoc "$f" -o "handouts/docx/references/$(basename ${f%.md}).docx"
 done
 ```
 

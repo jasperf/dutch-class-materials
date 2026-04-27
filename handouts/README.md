@@ -10,7 +10,9 @@ handouts/
 ├── s1-hallo-kom-binnen.md             # Session handouts (markdown)
 ├── s2-wat-doe-je.md
 ├── ...
-├── reference-numbers-10-100.md        # Reference sheet: numbers 10–100
+├── references/                        # Standalone grammar/vocabulary reference sheets
+│   ├── reference-numbers-10-100.md
+│   └── reference-je-jij-jou.md
 ├── tests/                             # Per-session tests (markdown)
 │   ├── s1-test-hallo-kom-binnen.md
 │   ├── s2-test-wat-doe-je.md
@@ -19,7 +21,9 @@ handouts/
     ├── README.md
     ├── s1-hallo-kom-binnen.docx
     ├── ...
-    ├── reference-numbers-10-100.docx
+    ├── references/
+    │   ├── reference-numbers-10-100.docx
+    │   └── reference-je-jij-jou.docx
     └── tests/
         ├── s1-test-hallo-kom-binnen.docx
         ├── s2-test-wat-doe-je.docx
@@ -64,10 +68,14 @@ See [handouts/docx/README.md](docx/README.md) for DOCX files that can be importe
 ## Generating DOCX
 
 ```bash
-# Convert all markdown handouts to DOCX
-cd handouts
-for f in *.md; do
-  pandoc "$f" -o "docx/${f%.md}.docx"
+# Session handouts
+for f in handouts/s*.md; do
+  pandoc "$f" -o "handouts/docx/$(basename ${f%.md}).docx"
+done
+
+# Reference sheets
+for f in handouts/references/reference-*.md; do
+  pandoc "$f" -o "handouts/docx/references/$(basename ${f%.md}).docx"
 done
 ```
 
