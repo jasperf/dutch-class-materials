@@ -24,8 +24,23 @@
 | Waar bent u geweest? | Where did you go? |
 | Ik ben naar … geweest | I went to … |
 | Wat heb je gedaan? | What did you do? |
+| Wat heeft u allemaal gezien? | What did you all see? |
 | Ik heb … bezocht | I visited … |
+| Het is ons prima bevallen | We really enjoyed it |
+| We hebben langs de grachten gewandeld | We walked along the canals |
+| U heeft zeker ook een rondvaart gemaakt? | You surely took a canal cruise? |
 | genieten van | to enjoy |
+
+### **Hotel & Stad**
+| **Nederlands** | **Engels** |
+|----------------|------------|
+| de tweepersoonskamer | the double room |
+| het ontbijt | breakfast |
+| Hoe lang wilt u blijven? | How long do you want to stay? |
+| de gracht / de grachten | the canal / the canals |
+| de tentoonstelling | the exhibition |
+| het terrasje | the outdoor café terrace |
+| uitgaan | to go out |
 
 ### **Weer**
 | **Nederlands** | **Engels** |
@@ -60,17 +75,17 @@
 
 | **Gebruik *zijn*** | **Voorbeeld** |
 |--------------------|---------------|
-| Bewegung naar een bestemming | Ik ben naar Parijs **gegaan** |
+| Beweging naar een bestemming | Ik ben naar Parijs **gegaan** |
 | Toestandsverandering | Het is warm **geworden** |
 
 | **Gebruik *hebben*** | **Voorbeeld** |
 |----------------------|---------------|
-| Meeste werkwoorden (overganke; werkwoorden van doen/voelen/denken) | Ik heb gisteren veel **gewerkt** |
+| Meeste werkwoorden (overgankelijke werkwoorden; doen/voelen/denken) | Ik heb gisteren veel **gewerkt** |
 
 **Belangrijke onregelmatige voltooide deelwoorden (eerste batch):**
 | **Infinitive** | **Voltooid deelwoord** |
 |----------------|-----------------------|
-| zijn | **gewesten** |
+| zijn | **geweest** |
 | hebben | **gehad** |
 | gaan | **gegaan** |
 | komen | **gekomen** |
@@ -78,6 +93,9 @@
 | zien | **gezien** |
 | eten | **gegeten** |
 | drinken | **gedronken** |
+| bezoeken | **bezocht** |
+| maken | **gemaakt** |
+| wandelen | **gewandeld** |
 
 ---
 
