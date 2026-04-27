@@ -20,9 +20,13 @@
 | **Nederlands** | **Engels** | **Nederlands** | **Engels** |
 |----------------|------------|----------------|------------|
 | de schoenen | shoes | de broek | trousers |
+| de sportschoenen | sports shoes/trainers | de korte broek | shorts |
 | de jas | coat/jacket | het overhemd | shirt |
 | de jurk | dress | de rok | skirt |
-| de trui | jumper/sweater | | |
+| de trui | jumper/sweater | de blouse | blouse |
+| de sokken | socks | de strepen | stripes |
+| het horloge | watch | de oorbellen | earrings |
+| de ring / de ringen | ring / rings | de bril | glasses |
 
 ### **Kleuren**
 | **Nederlands** | **Engels** | **Nederlands** | **Engels** |
@@ -32,6 +36,18 @@
 | wit | white | zwart | black |
 | grijs | grey | bruin | brown |
 | licht/donker | light/dark | | |
+
+### **Winkelen**
+| **Nederlands** | **Engels** |
+|----------------|------------|
+| de etalage | shop window / display |
+| de maat | size |
+| passen | to try on / to fit |
+| de winkelbediende | shop assistant |
+| duur / goedkoop | expensive / cheap |
+| Welke maat heeft u? | What size do you take? |
+| Kan ik die even passen? | Can I try those on? |
+| Loopt u even mee naar de kassa? | Can you come with me to the till? |
 
 ### **Meningen uiten**
 | **Nederlands** | **Engels** |
@@ -58,6 +74,16 @@ Bijvoeglijke naamwoorden krijgen **-e** in bijna alle gevallen. **Uitzondering:*
 | Na werkwoord | De jas is **mooi** | Het huis is **mooi** |
 
 **Ezelsbrug:** *een + het-woord = geen -e*. Overal anders: altijd **-e**.
+
+---
+
+### **Toch**
+*Toch* heeft twee betekenissen afhankelijk van de context:
+
+| **Gebruik** | **Voorbeeld** | **Vertaling** |
+|-------------|---------------|---------------|
+| Bevestigend achtervoegsel (tag question) | *Je komt toch?* | You're coming, aren't you? |
+| "After all / nevertheless" | *Het is wel duur, maar ik koop het toch.* | It is expensive, but I'll buy it anyway. |
 
 ---
 
