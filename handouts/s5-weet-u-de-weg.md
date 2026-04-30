@@ -11,6 +11,8 @@
 ✅ Je kunt **de weg vragen en uitleggen**
 ✅ Je kunt **geboden** (bevelende wijs) vormen en gebruiken
 ✅ Je kunt **plekken in de stad** en **voorzetsels van plaats** benoemen
+✅ Je kunt **rangtelwoorden** gebruiken bij een routebeschrijving
+✅ Je kunt zinnen verbinden met **voegwoorden** (en, maar, of, want, dus)
 
 ---
 
@@ -30,6 +32,7 @@
 |----------------|------------|
 | rechtdoor | straight ahead |
 | links / rechts | left / right |
+| linksaf / rechtsaf | turn left / turn right |
 | de eerste / tweede straat | the first / second street |
 | aan de linkerkant / rechterkant | on the left / right side |
 
@@ -63,7 +66,39 @@ De gebiedende wijs = **werkwoordstam** alleen:
 
 **Beleefde vorm met u:** voeg **-t** toe → *Gaat u rechtdoor.* / *Loopt u tot de stoplichten.* / *Slaat u hier linksaf.*
 
-### **2. Voorzetsels van plaats**
+### **2. Rangtelwoorden (Ordinal Numbers)**
+Voeg **-de** toe (2–19) of **-ste** (20+). Let op de uitzonderingen:
+
+| **Getal** | **Rangtelwoord** | **Getal** | **Rangtelwoord** |
+|-----------|-----------------|-----------|-----------------|
+| 1 | **eerste** *(onregelmatig)* | 6 | zesde |
+| 2 | tweede | 7 | zevende |
+| 3 | **derde** *(onregelmatig)* | 8 | achtste |
+| 4 | vierde | 9 | negende |
+| 5 | vijfde | 10 | tiende |
+
+**In gebruik:**
+- Neem de **tweede** straat links.
+- Het ziekenhuis is de **derde** straat rechts.
+- U gaat bij de **eerste** stoplichten rechtsaf.
+
+### **3. Voegwoorden (Conjunctions)**
+| **Woord** | **Betekenis** | **Functie** |
+|-----------|--------------|-------------|
+| en | and | opsomming *(summing up)* |
+| maar | but | tegenstelling *(contradiction)* |
+| of | or | keuze *(alternative)* |
+| want | because | reden *(reason)* |
+| dus | so / thus | conclusie *(conclusion)* |
+
+**Voorbeelden:**
+- U gaat hier rechtsaf **en** u loopt tot de stoplichten.
+- Ik wil parkeren **maar** ik kan geen plek vinden.
+- Is het de derde **of** de vierde straat?
+- Ik neem de bus **want** het is te ver lopen.
+- Ik ben hier niet bekend, **dus** ik kan niet helpen.
+
+### **4. Voorzetsels van plaats**
 | **in** | **op** | **aan** | **bij** | **naast** | **tegenover** | **achter** | **voor** | **tussen** |
 |--------|--------|---------|---------|-----------|---------------|------------|-----------|----------|
 | in | on | at/on | near | next to | opposite | behind | in front of | between |
