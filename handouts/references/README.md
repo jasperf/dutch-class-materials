@@ -10,6 +10,7 @@ These are not tied to a single session — they can be handed out any time the t
 | [reference-numbers-10-100.md](reference-numbers-10-100.md) | Numbers 10–100 | S2 (getallen 0–20), S4 (boodschappen) |
 | [reference-je-jij-jou.md](reference-je-jij-jou.md) | Je / Jij / Jou — tweede persoon enkelvoud | S1–S2 (eerste lessen) |
 | [reference-bijvoeglijke-naamwoorden.md](reference-bijvoeglijke-naamwoorden.md) | Bijvoeglijke naamwoorden — de -e regel | S6 (leuke schoenen) |
+| [reference-telbaar-niet-telbaar.md](reference-telbaar-niet-telbaar.md) | Telbare en niet-telbare zelfstandige naamwoorden | S4 (de boodschappen) |
 
 ## DOCX versions
 
