@@ -32,17 +32,22 @@
 | Hoe laat komt de bus aan? | What time does the bus arrive? |
 | op tijd / te laat | on time / late |
 | als het goed is | it should be / all going well |
+| even kijken hoor | let me see |
+| proberen te halen | to try to catch (a train) |
+| hoeven (niet) | to need (not have to) |
 | de lokettist | booking clerk |
 | de NS | Dutch Railways (Nederlandse Spoorwegen) |
 | de OV-chipkaart | Dutch transit card |
 
-### **In de bus**
+### **In de bus** *(historisch: de strippenkaart)*
 | **Nederlands** | **Engels** |
 |----------------|------------|
 | Kunt u me waarschuwen als we er zijn? | Can you warn me when we get there? |
 | Waar moet ik uitstappen? | Where do I get off? |
 | Waar wilt u naartoe? | Where do you want to go? |
 | Dat hangt ervan af | That depends |
+| opstappen / uitstappen | to get on / get off (bus/tram) |
+| de lijn (lijn 6) | the line / route (route 6) |
 
 ---
 
@@ -62,14 +67,15 @@
 
 ### **Scheidbare werkwoorden**
 In een **hoofdzin** splitst het voorzetsel **naar het einde** van de zin:
-- **opstaan** (opstaan): Ik sta om zeven uur **op**.
 - **aankomen** (to arrive): De trein komt om tien uur **aan**.
-- **overstappen** (to change): Je moet in Utrecht **overstappen**.
-- **vertrekken** (to depart): De bus vertrekt om half drie.
+- **overstappen** (to change): Je stapt in Utrecht **over**.
+- **uitstappen** (to get off): Ik stap bij de Merwedestraat **uit**.
+- **opstappen** (to get on): U kunt hier op de bus **opstappen**.
 
-Na een **modaal werkwoord** blijft het werkwoord **bij elkaar** (infinities):
-- Ik moet vroeg **opstaan**.
-- Wanneer wil je **overstappen**?
+Na een **modaal werkwoord** blijft het werkwoord **bij elkaar** (infinitief):
+- U moet in Utrecht **overstappen**.
+- Waar moet ik **uitstappen**?
+- U kunt de trein proberen te **halen**.
 
 ---
 
@@ -80,7 +86,7 @@ Na een **modaal werkwoord** blijft het werkwoord **bij elkaar** (infinities):
 | 0:00–0:10 | Warm-up: bijvoeglijke naamwoorden quiz |
 | 0:10–0:35 | Dialoog Unit 07: boek open, lezen + bespreken |
 | 0:35–1:05 | Tijd vertellen: volledige methode inclusief half en kwart |
-| 1:05–1:35 | Scheidbare werkwoorden: opstaan, aankomen, vertrekken, overstappen |
+| 1:05–1:35 | Scheidbare werkwoorden: aankomen, overstappen, uitstappen, opstappen |
 | 1:35–1:50 | Rolspel: bij het loket / in de bus / vragen over treintijden |
 | 1:50–2:00 | Huiswerk toelichten |
 
