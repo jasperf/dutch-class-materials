@@ -18,6 +18,7 @@ This is **not a software project**. It is a personal archive of materials for Du
 - **`diaries/`** — Class diaries (may contain personal information)
 - **`admin/`** — Contracts, receipts, and bank scans
 - **`.vibe/`** — Local Mistral Vibe CLI config
+- **`handouts/**/*.docx`** — All Word documents; generated from markdown via pandoc and stored in `handouts/docx/` (and `handouts/docx/tests/`), never committed
 
 ## Typical Tasks Here
 
