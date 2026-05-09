@@ -162,36 +162,40 @@ Schrijf hoe je van punt A naar punt B komt. Gebruik minstens 3 richtingswoorden.
 _______________________________________________
 _______________________________________________
 
-### B. Teken de route (5 punten)
-Lees de beschrijving en teken de route op de kaart hieronder.
+### B. Lees en label de kaart (5 punten)
+Lees de route-uitleg. Schrijf de juiste richting bij elke pijl op de kaart.
 
 *U loopt rechtdoor tot de stoplichten. Bij de stoplichten gaat u linksaf. Loop tot de rotonde. Neem de eerste straat rechts. De bank is aan de rechterkant.*
 
 ```
 [ STATION ]
    |
-   | (rechtdoor)
+   | → _______________
    ▼
-[ STOPLICHTEN ] ← __________
+[ STOPLICHTEN ]
    |
-   | (linksaf)
+   | → _______________
    ▼
 [ ROTONDE ]
    |
-   | (1e straat rechts)
+   | → _______________
    ▼
 [ BANK ]
 ```
 
-### C. Beantwoord de vragen (5 punten)
+### C. Geef zelf richtingen (5 punten)
+Schrijf een route. Gebruik minstens 2 richtingswoorden per antwoord.
 
-1. Hoe kom ik bij het ziekenhuis?
+1. Hoe leg je een vriend uit hoe hij van het station naar de supermarkt komt?
+   → _______________________________________________
    → _______________________________________________
 
-2. Waar is de parkeergarage?
+2. Beschrijf hoe je van de rotonde bij het park komt.
+   → _______________________________________________
    → _______________________________________________
 
-3. Is het ver om naar de markt te lopen?
+3. Beschrijf een route in jouw eigen stad of buurt. Gebruik: *rechtdoor*, *linksaf* of *rechtsaf*, en noem een eindpunt.
+   → _______________________________________________
    → _______________________________________________
 
 ---
