@@ -11,7 +11,8 @@
 ✅ Je begrijpt en kunt de **voltooid tegenwoordige tijd (perfect tense)** vormen
 ✅ Je weet wanneer je **hebben** vs. **zijn** als hulpwerkwoord gebruikt
 ✅ Je kunt **regelmatige voltooide deelwoorden** vormen ('t kofschip-regel)
-✅ Je kunt praten over een **vakantie** en het **weer** beschrijven
+✅ Je weet dat werkwoorden met **be-/ont-/ver-/her-** geen **ge-** krijgen
+✅ Je kunt praten over een **vakantie**, een **hotel**, en het **weer**
 
 ---
 
@@ -30,17 +31,28 @@
 | We hebben langs de grachten gewandeld | We walked along the canals |
 | U heeft zeker ook een rondvaart gemaakt? | You surely took a canal cruise? |
 | genieten van | to enjoy |
+| We hebben genoten | We have enjoyed ourselves |
+| Ik heb het naar mijn zin gehad | I enjoyed myself |
 
 ### **Hotel & Stad**
 | **Nederlands** | **Engels** |
 |----------------|------------|
 | de tweepersoonskamer | the double room |
+| de eenpersoonskamer | the single room |
 | het ontbijt | breakfast |
+| inclusief ontbijt | including breakfast |
+| de nacht / de nachten | the night / the nights |
 | Hoe lang wilt u blijven? | How long do you want to stay? |
+| Heeft u een kamer vrij? | Do you have a room available? |
+| met bad / met een douche | with a bath / with a shower |
+| reserveren | to reserve / to book |
+| de sleutel | the key |
 | de gracht / de grachten | the canal / the canals |
 | de tentoonstelling | the exhibition |
 | het terrasje | the outdoor café terrace |
 | uitgaan | to go out |
+| Waar bent u in geïnteresseerd? | What are your interests? |
+| Ik ben geïnteresseerd in … | I am interested in … |
 
 ### **Weer**
 | **Nederlands** | **Engels** |
@@ -82,7 +94,34 @@
 |----------------------|---------------|
 | Meeste werkwoorden (overgankelijke werkwoorden; doen/voelen/denken) | Ik heb gisteren veel **gewerkt** |
 
-**Belangrijke onregelmatige voltooide deelwoorden (eerste batch):**
+**Werkwoorden die altijd *zijn* gebruiken:**
+
+| zijn, blijven, komen, gaan, beginnen, stoppen, vertrekken, verhuizen, vallen, worden, trouwen, scheiden, sterven |
+|---|
+
+**Bewegingswerkwoorden (zijn of hebben?):**
+Gebruik **zijn** als er een richting of bestemming is; gebruik **hebben** als er geen richting is:
+
+| **Zijn (richting)** | **Hebben (geen richting)** |
+|---------------------|---------------------------|
+| Ik ben naar het park **gewandeld** | Ik heb een uur in het park **gewandeld** |
+| Wij zijn naar Amsterdam **gereden** | We hebben daar wat rond**gereden** |
+| Ze is naar huis **gerend** | Ze heeft veel **gerend** vandaag |
+
+### **3. Geen ge- bij voorvoegsels**
+
+Werkwoorden met de voorvoegsels **be-, her-, ont-, ver-, er-, ge-** krijgen **geen ge-** in het voltooid deelwoord:
+
+| **Infinitief** | **Voltooid deelwoord** |
+|----------------|------------------------|
+| be**stellen** | be**steld** |
+| be**zoeken** | be**zocht** |
+| her**halen** | her**haald** |
+| ont**moeten** | ont**moet** |
+| ver**tellen** | ver**teld** |
+| ver**kopen** | ver**kocht** |
+
+**Belangrijke onregelmatige voltooide deelwoorden:**
 | **Infinitive** | **Voltooid deelwoord** |
 |----------------|-----------------------|
 | zijn | **geweest** |
@@ -96,6 +135,10 @@
 | bezoeken | **bezocht** |
 | maken | **gemaakt** |
 | wandelen | **gewandeld** |
+| kopen | **gekocht** |
+| brengen | **gebracht** |
+| beginnen | **begonnen** |
+| blijven | **gebleven** |
 
 ---
 
@@ -104,10 +147,10 @@
 | **Tijd** | **Activiteit** |
 |----------|----------------|
 | 0:00–0:10 | Warm-up: week 3 herhaling controleren |
-| 0:10–0:35 | Dialoog Unit 08: boek open, lezen + bespreken |
-| 0:35–1:05 | Perfect tense structuur + regelmatige voltooide deelwoorden ('t kofschip-regel) |
-| 1:05–1:35 | hebben vs. zijn als hulpwerkwoord — sorteeroefening |
-| 1:35–1:50 | Rolspel: Heeft u een leuke vakantie gehad? |
+| 0:10–0:30 | Dialoog Unit 08: boek open, lezen + bespreken (hotel + checkout) |
+| 0:30–1:00 | Perfect tense structuur + regelmatige voltooide deelwoorden ('t kofschip-regel) + geen ge- bij voorvoegsels |
+| 1:00–1:30 | hebben vs. zijn als hulpwerkwoord — sorteeroefening (incl. bewegingswerkwoorden) |
+| 1:30–1:50 | Rolspel: Heeft u een leuke vakantie gehad? |
 | 1:50–2:00 | Huiswerk toelichten |
 
 ---
