@@ -11,11 +11,17 @@ dutch-class/
 ├── admin/                 # Private — gitignored (contracts, receipts, bank scans)
 ├── books/                 # Gitignored (copyrighted — not distributed)
 ├── diaries/               # Gitignored (may contain personal information)
+├── emails/
+│   ├── 2026-Q2_Apr-Jun/   # Pre-class emails for each session (s01-email.md … s20-email.md)
+│   ├── README.md
+│   ├── _generate.py       # Script to generate emails from template
+│   └── _template.md
 ├── handouts/              # Student-facing handout materials
 │   ├── s1-hallo-kom-binnen.md … s20-final-session.md  # Session handouts
 │   ├── references/        # Standalone grammar/vocabulary reference sheets
+│   ├── teacher/           # Teacher-only materials (answer keys, listening scripts)
 │   ├── tests/             # Per-session tests (markdown source)
-│   └── docx/              # DOCX exports — gitignored (includes docx/references/, docx/tests/)
+│   └── docx/              # DOCX exports — gitignored (includes docx/references/, docx/teacher/, docx/tests/)
 ├── lessons/
 │   ├── 2026-Q2_Apr-Jun/          # Active course (Apr–Jun 2026)
 │   │   ├── README.md             # Quarter overview and quick links
@@ -24,7 +30,8 @@ dutch-class/
 │   └── templates/
 │       └── lesson-plan-template.md
 ├── docs/
-│   └── pdf-export.md      # How to export markdown files to PDF (Pandoc + LuaLaTeX)
+│   ├── handout-review-process.md  # Process for reviewing and updating handouts
+│   └── pdf-export.md              # How to export markdown files to PDF (Pandoc + LuaLaTeX)
 └── notes/
     └── teaching-notes.md  # Course overview and PDF split map
 ```
