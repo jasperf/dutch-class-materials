@@ -85,6 +85,7 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 | s8-test-herhaling-units-1-7.docx | S8 | Review Units 1–7 |
 | s9-test-heeft-u-een-leuke-vakantie-gehad.docx | S9 | Perfect tense, holidays |
 | s10-test-midpunt-toets-units-1-8.docx | S10 | **Midpoint test — Units 01–08 (2 hr)** |
+| s11-test-ik-heb-bloemen-voor-je-meegebracht.docx | S11 | Invitations, separable verbs, om + te |
 
 ---
 
