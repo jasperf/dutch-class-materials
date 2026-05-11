@@ -14,10 +14,13 @@ handouts/
 │   ├── reference-numbers-10-100.md
 │   ├── reference-je-jij-jou.md
 │   └── reference-bijvoeglijke-naamwoorden.md
+├── teacher/                           # Teacher-only materials (scripts, answer keys)
+│   └── s10-luistertoets-leraar.md
 ├── tests/                             # Per-session tests (markdown)
 │   ├── s1-test-hallo-kom-binnen.md
 │   ├── s2-test-wat-doe-je.md
-│   └── s3-test-waar-woon-je.md
+│   ├── ...
+│   └── s10-test-midpunt-toets-units-1-8.md
 └── docx/                              # DOCX versions for Google Docs (gitignored)
     ├── README.md
     ├── s1-hallo-kom-binnen.docx
@@ -26,10 +29,12 @@ handouts/
     │   ├── reference-numbers-10-100.docx
     │   ├── reference-je-jij-jou.docx
     │   └── reference-bijvoeglijke-naamwoorden.docx
+    ├── teacher/
+    │   └── s10-luistertoets-leraar.docx
     └── tests/
         ├── s1-test-hallo-kom-binnen.docx
-        ├── s2-test-wat-doe-je.docx
-        └── s3-test-waar-woon-je.docx
+        ├── ...
+        └── s10-test-midpunt-toets-units-1-8.docx
 ```
 
 ## Session List (20 sessions)
@@ -73,6 +78,16 @@ See [handouts/docx/README.md](docx/README.md) for DOCX files that can be importe
 # Session handouts
 for f in handouts/s*.md; do
   pandoc "$f" -o "handouts/docx/$(basename ${f%.md}).docx"
+done
+
+# Tests
+for f in handouts/tests/*.md; do
+  pandoc "$f" -o "handouts/docx/tests/$(basename ${f%.md}).docx"
+done
+
+# Teacher materials
+for f in handouts/teacher/*.md; do
+  pandoc "$f" -o "handouts/docx/teacher/$(basename ${f%.md}).docx"
 done
 
 # Reference sheets

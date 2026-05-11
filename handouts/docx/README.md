@@ -65,6 +65,12 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 | references/reference-je-jij-jou.docx | Je / Jij / Jou — tweede persoon enkelvoud |
 | references/reference-bijvoeglijke-naamwoorden.docx | Bijvoeglijke naamwoorden — de -e regel |
 
+### Teacher materials (`teacher/`)
+
+| Filename | Session | Description |
+|----------|---------|-------------|
+| teacher/s10-luistertoets-leraar.docx | S10 | Listening script + full answer key for midpoint test |
+
 ### Tests (`tests/`)
 
 | Filename | Session | Topic |
@@ -72,6 +78,13 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 | s1-test-hallo-kom-binnen.docx | S1 | Pronunciation, introductions, zijn |
 | s2-test-wat-doe-je.docx | S2 | Family, jobs, hebben, inversion |
 | s3-test-waar-woon-je.docx | S3 | Housing, de/het, er is/zijn |
+| s4-test-de-boodschappen.docx | S4 | Shopping, quantities, modals |
+| s5-test-weet-u-de-weg.docx | S5 | Directions, imperatives |
+| s6-test-leuke-schoenen.docx | S6 | Clothing, adjectives, opinions |
+| s7-test-retourtje-wageningen.docx | S7 | Transport, separable verbs, time |
+| s8-test-herhaling-units-1-7.docx | S8 | Review Units 1–7 |
+| s9-test-heeft-u-een-leuke-vakantie-gehad.docx | S9 | Perfect tense, holidays |
+| s10-test-midpunt-toets-units-1-8.docx | S10 | **Midpoint test — Units 01–08 (2 hr)** |
 
 ---
 
@@ -115,6 +128,23 @@ All tests at once:
 for f in handouts/tests/*.md; do
   base=$(basename "$f" .md)
   pandoc "$f" -o "handouts/docx/tests/${base}.docx"
+done
+```
+
+---
+
+### Teacher materials
+
+Single file:
+```bash
+pandoc handouts/teacher/s10-luistertoets-leraar.md -o handouts/docx/teacher/s10-luistertoets-leraar.docx
+```
+
+All teacher materials at once:
+```bash
+for f in handouts/teacher/*.md; do
+  base=$(basename "$f" .md)
+  pandoc "$f" -o "handouts/docx/teacher/${base}.docx"
 done
 ```
 
