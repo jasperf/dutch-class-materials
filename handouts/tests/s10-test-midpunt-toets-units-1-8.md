@@ -1,4 +1,4 @@
-# Toets S10 — Midpunttoets Units 01–08
+# Toets S10 — Tussentoets Units 01–08
 
 **Datum:** Maandag 11 mei 2026
 **Naam:** ___________________________

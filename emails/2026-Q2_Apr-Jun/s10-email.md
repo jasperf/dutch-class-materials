@@ -1,4 +1,4 @@
-# Email — S10 — Midpunttoets — Units 01–08
+# Email — S10 — Tussentoets — Units 01–08
 
 **To:** [student email]
 **Subject:** Dutch class today — 11 May 2026
@@ -13,7 +13,7 @@ Here is the meetup link for today's class, 11 May 2026 (Monday, 4:45–6:45 pm):
 
 ---
 
-**Today's session: S10 — Midpunttoets — Units 01–08 (Midpoint review + test)**
+**Today's session: S10 — Tussentoets — Units 01–08 (Midpoint review + test)**
 
 In today's class we will cover:
 - 2-hour written midpoint test covering Units 01–08

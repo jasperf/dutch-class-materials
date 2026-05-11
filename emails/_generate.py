@@ -76,7 +76,7 @@ SESSIONS = [
       "Booking a hotel room: vocabulary and dialogue",
       "Talking about holidays: what you did, where you went, what you saw"]),
 
-    ("s10", "11 May 2026", "Monday", "4:45–6:45 pm", "S10", "Midpunttoets — Units 01–08", "Midpoint review + test", None,
+    ("s10", "11 May 2026", "Monday", "4:45–6:45 pm", "S10", "Tussentoets — Units 01–08", "Midpoint review + test", None,
      ["2-hour written midpoint test covering Units 01–08",
       "Sections: vocabulary (EN→NL), grammar, reading, listening and writing",
       "Please review all vocabulary from Units 01–08 before class",
