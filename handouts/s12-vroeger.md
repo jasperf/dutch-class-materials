@@ -21,13 +21,25 @@
 | **Nederlands** | **Engels** |
 |----------------|------------|
 | gisteren / eergisteren | yesterday / the day before yesterday |
-| vorige week / vorige maand | last week / last month |
-| vorig jaar | last year |
+| morgen / overmorgen | tomorrow / the day after tomorrow |
+| vorige week / verleden week | last week (both forms) |
+| vorige maand / vorig jaar | last month / last year |
 | in de ochtend / middag / avond | in the morning / afternoon / evening |
-| 's morgens / 's middags / 's avonds | in the mornings / afternoons / evenings |
+| 's morgens / 's middags / 's avonds / 's nachts | in the mornings / afternoons / evenings / at night |
+| vanochtend / vanmorgen | this morning |
+| vanmiddag / vanavond / vannacht | this afternoon / this evening / tonight |
 | vroeger | in the past / when I was young |
 | toen | then / at that time (past) |
+| al (lang) / pas (kort) | already (a long time) / only (a short time) |
 | altijd / vaak / soms / nooit | always / often / sometimes / never |
+
+### **De seizoenen**
+| **Nederlands** | **Engels** |
+|----------------|------------|
+| de winter | winter |
+| de lente / het voorjaar | spring |
+| de zomer | summer |
+| de herfst / het najaar | autumn / fall |
 
 ### **Verhaalvocabulaire**
 | **Nederlands** | **Engels** |
@@ -48,8 +60,30 @@
 | **Infinitive** | **Stam** | **Einde** | **Ik-vorm** | **Meervoud** |
 |----------------|----------|-----------|-------------|--------------|
 | werken | werk | -te (k) | **werkte** | **werkten** |
-| horen | hoor | -de (r) | **hoorde** | **hoorden** |
-| leven | leef | -de (f) | **leefde** | **leefden** |
+| wonen | woon | -de (n) | **woonde** | **woonden** |
+| leven | leef | -de (f→v) | **leefde** | **leefden** |
+
+**Let op — dubbele medeklinker:** als de stam eindigt op -t of -d:
+- *praten* → praat → **praatte / praatten**
+- *redden* → red → **redde / redden**
+
+**Let op — z/v-stam:** de stam eindigt op s/f, maar de infinitief op z/v → gebruik altijd **-de**:
+- *reizen* → reis → **reisde / reisden** (niet: *reiste*)
+- *leven* → leef → **leefde / leefden** (niet: *leefde* via kofschip — correct, maar reden is de v)
+
+**Scheidbare werkwoorden:** het voorvoegsel gaat naar het einde, net als in de tegenwoordige tijd:
+- *uitgaan* → *Ik **ging** vroeger erg vaak **uit**.*
+
+---
+
+### **Tegenwoordige tijd + al / pas (voortdurende situaties)**
+Gebruik de **tegenwoordige tijd** (niet het imperfect!) voor een situatie die in het verleden begon en nu nog geldt:
+
+| | **Voorbeeld** | **Vertaling** |
+|--|---------------|---------------|
+| **al** (lange tijd) | Ik woon al drie jaar in Amsterdam. | I've lived in Amsterdam for three years. |
+| **pas** (korte tijd) | Hij woont pas twee maanden hier. | He's only lived here for two months. |
+| **vraag** | Hoelang woon je al in Nederland? | How long have you been living in the Netherlands? |
 
 ---
 
@@ -60,9 +94,16 @@
 | hebben | **had** | **hadden** |
 | gaan | **ging** | **gingen** |
 | komen | **kwam** | **kwamen** |
+| doen | **deed** | **deden** |
+| geven | **gaf** | **gaven** |
+| zitten | **zat** | **zaten** |
+| vinden | **vond** | **vonden** |
 | zien | **zag** | **zagen** |
 | weten | **wist** | **wisten** |
-| bieden | **bood** | **boden** |
+| moeten | **moest** | **moesten** |
+| kunnen | **kon** | **konden** |
+| willen | **wilde** | **wilden** |
+| mogen | **mocht** | **mochten** |
 
 ---
 
@@ -102,4 +143,4 @@
 
 ## **Huiswerk**
 📝 **Schrijfopdracht:** Schrijf **8 zinnen** over wat je vroeger als kind deed (vroeger + imperfect)
-📚 **Woorden leren:** Leer de **7 onregelmatige imperfecta** hierboven
+📚 **Woorden leren:** Leer de **14 onregelmatige imperfecta** hierboven
