@@ -69,7 +69,18 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 
 | Filename | Session | Description |
 |----------|---------|-------------|
+| teacher/s8-luistertoets-leraar.docx | S8 | Listening script + answer key (directions/shopping) |
+| teacher/s9-luistertoets-leraar.docx | S9 | Listening script + answer key (vacation/holidays) |
 | teacher/s10-luistertoets-leraar.docx | S10 | Listening script + full answer key for midpoint test |
+| teacher/s12-luistertoets-leraar.docx | S12 | Listening script + answer key (past tense/vroeger) |
+
+### Teacher materials — Student questions (`teacher/student-questions/`)
+
+| Filename | Session | Description |
+|----------|---------|-------------|
+| teacher/student-questions/s8-luistertoets-student.docx | S8 | Student worksheet — listening + exercises |
+| teacher/student-questions/s9-luistertoets-student.docx | S9 | Student worksheet — listening + exercises |
+| teacher/student-questions/s12-luistertoets-student.docx | S12 | Student worksheet — listening + exercises |
 
 ### Tests (`tests/`)
 
@@ -146,6 +157,21 @@ All teacher materials at once:
 for f in handouts/teacher/*.md; do
   base=$(basename "$f" .md)
   pandoc "$f" -o "handouts/docx/teacher/${base}.docx"
+done
+```
+
+### Teacher student questions
+
+Single file:
+```bash
+pandoc handouts/teacher/student-questions/s8-luistertoets-student.md -o handouts/docx/teacher/student-questions/s8-luistertoets-student.docx
+```
+
+All student questions at once:
+```bash
+for f in handouts/teacher/student-questions/*.md; do
+  base=$(basename "$f" .md)
+  pandoc "$f" -o "handouts/docx/teacher/student-questions/${base}.docx"
 done
 ```
 
