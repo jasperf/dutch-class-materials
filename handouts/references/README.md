@@ -12,6 +12,7 @@ These are not tied to a single session — they can be handed out any time the t
 | [reference-bijvoeglijke-naamwoorden.md](reference-bijvoeglijke-naamwoorden.md) | Bijvoeglijke naamwoorden — de -e regel | S6 (leuke schoenen) |
 | [reference-niet-vs-geen.md](reference-niet-vs-geen.md) | Niet vs. Geen — ontkenningen | S1–S3 (basisgrammatica) |
 | [reference-telbaar-niet-telbaar.md](reference-telbaar-niet-telbaar.md) | Telbare en niet-telbare zelfstandige naamwoorden | S4 (de boodschappen) |
+| [reference-scheidbare-wws-en-voltooid-deelwoord.md](reference-scheidbare-wws-en-voltooid-deelwoord.md) | Scheidbare werkwoorden & voltooid deelwoord | Unit 9 |
 
 ## DOCX versions
 
