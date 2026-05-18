@@ -1,5 +1,8 @@
 # Dutch Class Materials
 
+![Clones](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgist.githubusercontent.com%2Fjasperf%2F3dc8de05bf249296855902e906ab6dc8%2Fraw%2Fclones.json&query=%24.total_clones&label=clones&color=blue)
+![Unique cloners](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgist.githubusercontent.com%2Fjasperf%2F3dc8de05bf249296855902e906ab6dc8%2Fraw%2Fclones.json&query=%24.total_uniques&label=unique%20cloners&color=blueviolet)
+
 Personal archive of materials for Dutch language instruction (2023–present).
 
 ---
