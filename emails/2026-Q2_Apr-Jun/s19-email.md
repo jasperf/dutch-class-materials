@@ -1,4 +1,4 @@
-# Email — S19 — Units 15–16 Survey + Herhaling
+# Email — S19 — Ik begrijp precies hoe je je voelt
 
 **To:** [student email]
 **Subject:** Dutch class today — 1 June 2026
@@ -13,16 +13,15 @@ Here is the meetup link for today's class, 1 June 2026 (Monday, 4:45–6:45 pm):
 
 ---
 
-**Today's session: S19 — Units 15–16 Survey + Herhaling (Units 15–16)**
+**Today's session: S19 — Ik begrijp precies hoe je je voelt (Unit 14)**
 
 In today's class we will cover:
-- Survey of Units 15–16: internet, money, media and opinion
-- Expressing opinions and comparisons: *vinden, denken, menen*
-- Adverbs and sentence connectors
-- Revision of all major grammar from the course
-- Vocabulary: technology, media, current affairs
+- Reflexive verbs: *zich voelen, zich vergissen, zich herinneren*
+- Health and emotions vocabulary
+- Expressing sympathy and giving advice
+- Vocabulary: health, feelings, well-being
 
-Please have your textbook open to pages 209–243.
+Please have your textbook open to pages 193–208.
 
 See you soon!
 Jasper

@@ -1,4 +1,4 @@
-# Email — S16 — Zouden (verdieping)
+# Email — S16 — Ik stuur je wel een sms-je
 
 **To:** [student email]
 **Subject:** Dutch class today — 25 May 2026
@@ -13,13 +13,13 @@ Here is the meetup link for today's class, 25 May 2026 (Monday, 4:45–6:45 pm):
 
 ---
 
-**Today's session: S16 — Zouden (verdieping) (Unit 12 (continued))**
+**Today's session: S16 — Ik stuur je wel een sms-je (Unit 12)**
 
 In today's class we will cover:
-- *Zouden* (would) in depth: polite requests, hypotheticals, reported speech
-- Preposition practice: collocations and fixed expressions
-- Review of subordinate clauses with *dat, omdat, als*
-- Conversation drill: polite and conditional language in context
+- Making and receiving phone calls in Dutch
+- The conditional *zouden* (would): introduction and forms
+- Polite requests with *zouden*
+- Vocabulary: phone, messages, making appointments
 
 Please have your textbook open to pages 152–173.
 

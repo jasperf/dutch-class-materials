@@ -1,4 +1,4 @@
-# Email — S18 — Ik begrijp precies hoe je je voelt
+# Email — S18 — Ik weet echt niet wat ik wil
 
 **To:** [student email]
 **Subject:** Dutch class today — 31 May 2026
@@ -13,15 +13,15 @@ Here is the meetup link for today's class, 31 May 2026 (Sunday, 10:00 am–12:00
 
 ---
 
-**Today's session: S18 — Ik begrijp precies hoe je je voelt (Unit 14)**
+**Today's session: S18 — Ik weet echt niet wat ik wil (Unit 13)**
 
 In today's class we will cover:
-- Reflexive verbs: *zich voelen, zich vervelen, zich verheugen*
-- Health and body vocabulary: symptoms, at the doctor
-- Expressing emotions and empathy
-- Vocabulary: health, feelings, the body
+- Subordinate clauses: *dat, omdat, als, toen, terwijl*
+- Word order in subordinate clauses (verb to the end)
+- Talking about career, ambitions and skills
+- Vocabulary: work, education, abilities
 
-Please have your textbook open to pages 193–208.
+Please have your textbook open to pages 174–192.
 
 See you soon!
 Jasper

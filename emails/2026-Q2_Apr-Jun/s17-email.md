@@ -1,4 +1,4 @@
-# Email — S17 — Ik weet echt niet wat ik wil
+# Email — S17 — Zouden (verdieping)
 
 **To:** [student email]
 **Subject:** Dutch class today — 28 May 2026
@@ -13,15 +13,15 @@ Here is the meetup link for today's class, 28 May 2026 (Thursday, 4:45–6:45 pm
 
 ---
 
-**Today's session: S17 — Ik weet echt niet wat ik wil (Unit 13)**
+**Today's session: S17 — Zouden (verdieping) (Unit 12 continued)**
 
 In today's class we will cover:
-- Subordinate clauses: *dat, omdat, als, toen, terwijl*
-- Word order in subordinate clauses (verb to the end)
-- Talking about career, ambitions and skills
-- Vocabulary: work, education, abilities
+- *Zouden* (would) in depth: polite requests, hypotheticals, reported speech
+- Conditional sentences: *Als… zou(den)…*
+- Preposition practice: fixed verb + preposition combinations (*wachten op, kijken naar, houden van*…)
+- Conversation drill: hypothetical questions
 
-Please have your textbook open to pages 174–192.
+Please have your textbook open to pages 152–173.
 
 See you soon!
 Jasper
