@@ -159,9 +159,10 @@ TEMPLATE = """\
 
 Dear Students,
 
-Here is the meetup link for today's class, {date} ({day}, {time}):
+Here are the meetup links for today's class, {date} ({day}, {time}):
 
-[GOOGLE_MEET_URL]
+[GOOGLE_MEET_URL_HOUR_1]
+[GOOGLE_MEET_URL_HOUR_2]
 
 ---
 

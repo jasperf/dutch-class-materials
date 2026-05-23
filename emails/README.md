@@ -28,7 +28,8 @@ Each email:
 ## Before sending
 
 1. Open the relevant `sXX-email.md`
-2. Replace `[GOOGLE_MEET_URL]` with the session's Google Meet link
+2. Replace `[GOOGLE_MEET_URL_HOUR_1]
+[GOOGLE_MEET_URL_HOUR_2]` with the session's Google Meet link
 3. Adjust the bullet summary if the lesson plan has changed
 4. Copy the body into your email client and send
 

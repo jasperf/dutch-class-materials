@@ -7,9 +7,10 @@
 
 Dear Students,
 
-Here is the meetup link for today's class, 3 May 2026 (Sunday, 10:00 am–12:00 pm):
+Here are the meetup links for today's class, 3 May 2026 (Sunday, 10:00 am–12:00 pm):
 
-[GOOGLE_MEET_URL]
+[GOOGLE_MEET_URL_HOUR_1]
+[GOOGLE_MEET_URL_HOUR_2]
 
 ---
 

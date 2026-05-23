@@ -7,9 +7,10 @@
 
 Dear Students,
 
-Here is the meetup link for today's class, 4 June 2026 (Thursday, 4:45–6:45 pm):
+Here are the meetup links for today's class, 4 June 2026 (Thursday, 4:45–6:45 pm):
 
-[GOOGLE_MEET_URL]
+[GOOGLE_MEET_URL_HOUR_1]
+[GOOGLE_MEET_URL_HOUR_2]
 
 ---
 
