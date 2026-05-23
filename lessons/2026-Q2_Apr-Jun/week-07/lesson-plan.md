@@ -1,26 +1,77 @@
 # Week 7
 
-**S19 (Mon 1 Jun):** Units 15–16 survey + revision — book pp 209–243
-**S20 (Thu 4 Jun):** Final session — conversation test + feedback
-**Spare S21 (Sun 7 Jun):** Buffer if any session was missed
+**S19 (Mon 1 Jun):** Unit 14 — *ik begrijp precies hoe je je voelt* — book pp 193–208
+**S20 (Thu 4 Jun):** Units 15–16 survey + revision — book pp 209–243
+**S21 (Sun 7 Jun):** Final session — conversation test + feedback
 **Cumulative hours:** 40 ← COURSE COMPLETE
 
 ---
 
-## S19 — Units 15–16 survey + revision (pp 209–243)
+## S19 — Unit 14: ik begrijp precies hoe je je voelt (pp 193–208)
+
+**Unit 14 themes:** Talking about physical and emotional well-being
+
+### Objectives
+- [ ] Student can describe physical ailments and emotions in Dutch
+- [ ] Student can use reflexive verbs (zich voelen, zich vergissen, etc.)
+- [ ] Student can express sympathy and give advice
+
+### Agenda
+| Time | Activity |
+|------|----------|
+| 0:00–0:10 | Homework review: subordinate clause sentences |
+| 0:10–0:35 | Unit 14 dialogue: open book, read + discuss |
+| 0:35–1:05 | Reflexive verbs: zich + reflexive pronoun |
+| 1:05–1:30 | Health + emotions vocabulary + expressing sympathy |
+| 1:30–1:50 | Role play: a conversation about how someone is feeling |
+| 1:50–2:00 | Homework for final week |
+
+### Vocabulary — Health & emotions
+| Dutch | English |
+|-------|---------|
+| Hoe voel je je? | How do you feel? |
+| Ik voel me niet lekker | I don't feel well |
+| Ik ben moe / gestrest / uitgeput | I'm tired / stressed / exhausted |
+| Ik ben blij / verdrietig / boos | I'm happy / sad / angry |
+| Ik maak me zorgen over… | I'm worried about… |
+| Dat begrijp ik | I understand that |
+| Wat vervelend voor je! | How unpleasant for you! |
+| Sterkte! | Good luck / Hang in there! |
+| Beterschap! | Get well soon! |
+| het lukt me niet | I can't manage it / I'm not succeeding |
+
+### Grammar — Reflexive verbs
+Reflexive pronouns: me (ik), je (jij), zich (hij/zij/u), ons (wij), je (jullie), zich (zij pl.)
+
+| Verb | Meaning | Example |
+|------|---------|---------|
+| zich voelen | to feel | Ik voel **me** niet lekker |
+| zich vergissen | to be mistaken | Hij vergist **zich** |
+| zich herinneren | to remember | We herinneren **ons** dat |
+| zich voorstellen | to introduce oneself | Sta me toe mij voor te stellen |
+| zich aankleden | to get dressed | Ze kleedt **zich** aan |
+| zich zorgen maken | to worry | Ik maak **me** zorgen |
+
+### Homework
+- Review all vocabulary from Units 01–14
+- Prepare a 3-minute spoken presentation for S20 (any topic from the course)
+
+---
+
+## S20 — Units 15–16 survey + revision (pp 209–243)
 
 **Unit 15 themes:** Internet services · travel insurance · money expressions · comparing things
 **Unit 16 themes:** Media in the Netherlands · giving your opinion · structuring information · adverbs
 
 ### Objectives
 - [ ] Student has an overview of Units 15–16 topics for self-study
-- [ ] Student completes 3-min spoken presentation (homework from S18)
+- [ ] Student completes 3-min spoken presentation (homework from S19)
 - [ ] All major grammar from the course reviewed
 
 ### Agenda
 | Time | Activity |
 |------|----------|
-| 0:00–0:25 | Spoken presentation (homework from S18) + feedback |
+| 0:00–0:25 | Spoken presentation (homework from S19) + feedback |
 | 0:25–0:55 | Units 15–16 overview: open book, browse + highlight key points |
 | 0:55–1:25 | Full grammar review: whiteboard summary of entire course |
 | 1:25–1:50 | Mock conversation — teacher plays various roles at random |
@@ -64,7 +115,7 @@
 
 ---
 
-## S20 — Final session (Thu 5 Jun)
+## S21 — Final session (Sun 7 Jun)
 
 ### Objectives
 - [ ] Extended conversation test: 40 minutes of unscripted Dutch

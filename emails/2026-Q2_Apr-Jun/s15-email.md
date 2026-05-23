@@ -1,28 +1,28 @@
-# Email — S15 — Ik stuur je wel een sms-je
+# Email — S15 — Laten we naar Antwerpen gaan
 
 **To:** [student email]
-**Subject:** Dutch class today — 24 May 2026
+**Subject:** Dutch class tomorrow — 24 May 2026
 
 ---
 
 Dear Students,
 
-Here is the meetup link for today's class, 24 May 2026 (Sunday, 10:00 am–12:00 pm):
+Here is the meetup link for tomorrow's class, 24 May 2026 (Sunday, 10:00 am–12:00 pm):
 
 [GOOGLE_MEET_URL]
 
 ---
 
-**Today's session: S15 — Ik stuur je wel een sms-je (Unit 12)**
+**Today's session: S15 — Laten we naar Antwerpen gaan (Unit 11)**
 
 In today's class we will cover:
-- Making and receiving phone calls in Dutch
-- The conditional *zouden* (would): introduction and forms
-- Prepositions in depth: *op, aan, in, bij, van, met, voor*
-- Texting and informal written language
-- Vocabulary: phone, messages, making appointments
+- Making suggestions: *laten we…, zullen we…, wat dacht je van…*
+- Expressing likes and dislikes: *houden van, een hekel hebben aan*
+- Talking about food preferences and leisure activities
+- Saying 'no' politely in Dutch
+- Vocabulary: going out, food, leisure activities
 
-Please have your textbook open to pages 152–173.
+Please have your textbook open to pages 134–151.
 
 See you soon!
 Jasper

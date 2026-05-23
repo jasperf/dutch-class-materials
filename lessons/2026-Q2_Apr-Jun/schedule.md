@@ -3,7 +3,7 @@
 **Total hours:** 40 (20 sessions × 2 hrs)
 **First session:** Mon 20 Apr 2026
 **Pattern:** Monday + Thursday (4:45–6:45 pm) · Sunday (10:00 am–12:00)
-**Finish:** Thu 4 Jun 2026 (spare: Sun 7 Jun)
+**Finish:** Sun 7 Jun 2026 (spare slot now used as Final; S14 skipped 21 May on student request)
 **Textbook:** *Dutch* — Gerdi Quist & Dennis Strik (Teach Yourself, 2003)
 
 ---
@@ -49,14 +49,14 @@
 | S11 | 14 May | Thu | 2 | 22 | 09 | 109–120 | Invitations, dinner, preferences, zullen |
 | S12 | 17 May | Sun | 2 | 24 | 10 | 121–133 | Times of day/week/year; simple past intro |
 | S13 | 18 May | Mon | 2 | 26 | 10 cont. | 121–133 | Simple past (imperfect), used to (vroeger) |
-| S14 | 21 May | Thu | 2 | 28 | 11 | 134–151 | Suggestions, likes/dislikes, talking about food |
-| S15 | 24 May | Sun | 2 | 30 | 12 | 152–173 | Phone calls, zouden, prepositions |
-| S16 | 25 May | Mon | 2 | 32 | 12 cont. | 152–173 | Zouden in depth; preposition practice |
-| S17 | 28 May | Thu | 2 | 34 | 13 | 174–192 | Subordinate clauses, career, skills |
-| S18 | 31 May | Sun | 2 | 36 | 14 | 193–208 | Health, emotions, hoe je je voelt |
-| S19 | 1 Jun | Mon | 2 | 38 | 15 + 16 survey + revision | 209–243 | Internet/money + media/opinion; revision |
-| S20 | 4 Jun | Thu | 2 | 40 | Final | — | Conversation test, feedback, next steps |
-| S21 | 7 Jun | Sun | — | spare | — | — | Buffer if any session was missed |
+| S14 | 21 May | Thu | — | 26 | 11 | 134–151 | **SKIPPED** (student request) |
+| S15 | 24 May | Sun | 2 | 28 | 11 | 134–151 | Suggestions, likes/dislikes, talking about food |
+| S16 | 25 May | Mon | 2 | 30 | 12 | 152–173 | Phone calls, zouden, prepositions |
+| S17 | 28 May | Thu | 2 | 32 | 12 cont. | 152–173 | Zouden in depth; preposition practice |
+| S18 | 31 May | Sun | 2 | 34 | 13 | 174–192 | Subordinate clauses, career, skills |
+| S19 | 1 Jun | Mon | 2 | 36 | 14 | 193–208 | Health, emotions, hoe je je voelt |
+| S20 | 4 Jun | Thu | 2 | 38 | 15 + 16 survey + revision | 209–243 | Internet/money + media/opinion; revision |
+| S21 | 7 Jun | Sun | 2 | 40 | Final | — | Conversation test, feedback, next steps |
 
 ---
 
@@ -68,9 +68,9 @@
 | 2 | S4 Mon 27 Apr ☐ | S5 Thu 30 Apr ☐ | S6 Sun 3 May ☐ | | |
 | 3 | S7 Mon 4 May ☐ | S8 Thu 7 May ☐ | S9 Sun 10 May ☐ | | |
 | 4 | S10 Mon 11 May ☐ | S11 Thu 14 May ☐ | S12 Sun 17 May ☐ | | |
-| 5 | S13 Mon 18 May ☐ | S14 Thu 21 May ☐ | S15 Sun 24 May ☐ | | |
+| 5 | S13 Mon 18 May ☐ | S14 Thu 21 May — SKIPPED | S15 Sun 24 May ☐ | | |
 | 6 | S16 Mon 25 May ☐ | S17 Thu 28 May ☐ | S18 Sun 31 May ☐ | | |
-| 7 | S19 Mon 1 Jun ☐ | S20 Thu 4 Jun ☐ | — | | |
+| 7 | S19 Mon 1 Jun ☐ | S20 Thu 4 Jun ☐ | S21 Sun 7 Jun ☐ | | |
 
 ---
 
@@ -88,8 +88,8 @@
 | S9 | perfect tense (hebben/zijn + past participle) |
 | S11 | zullen, indirect objects, saying what you prefer |
 | S12–S13 | simple past (imperfect), used to |
-| S14 | suggestions (laten we…), likes and dislikes |
-| S15–S16 | zouden (conditional), prepositions in depth |
-| S17 | subordinate clauses (dat/omdat/als), word order |
-| S18 | reflexive verbs, emotions vocabulary |
-| S19 | adverbs, comparing, structuring opinion |
+| S15 | suggestions (laten we…), likes and dislikes |
+| S16–S17 | zouden (conditional), prepositions in depth |
+| S18 | subordinate clauses (dat/omdat/als), word order |
+| S19 | reflexive verbs, emotions vocabulary |
+| S20 | adverbs, comparing, structuring opinion |

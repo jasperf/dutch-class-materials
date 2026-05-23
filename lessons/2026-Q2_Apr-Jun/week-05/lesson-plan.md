@@ -1,9 +1,9 @@
 # Week 5
 
 **S13 (Mon 18 May):** Unit 10 continued — simple past in depth
-**S14 (Thu 21 May):** Unit 11 — *laten we naar Antwerpen gaan* — book pp 134–151
-**S15 (Sun 24 May):** Unit 12 — *ik stuur je wel een sms-je* — book pp 152–173
-**Cumulative hours:** 30
+**S14 (Thu 21 May):** SKIPPED (student request)
+**S15 (Sun 24 May):** Unit 11 — *laten we naar Antwerpen gaan* — book pp 134–151
+**Cumulative hours:** 28
 
 ---
 
@@ -64,7 +64,13 @@ Examples:
 
 ---
 
-## S14 — Unit 11: laten we naar Antwerpen gaan (pp 134–151)
+## S14 — SKIPPED (student request)
+
+_Class cancelled on 21 May at student request. Unit 11 content is taught in S15 (Sun 24 May) instead._
+
+---
+
+## S15 — Unit 11: laten we naar Antwerpen gaan (pp 134–151)
 
 **Unit 11 themes:** Expressing likes and dislikes · saying something is or isn't a good idea · making suggestions · talking about food · saying 'no' politely
 
@@ -115,61 +121,6 @@ Dutch has several levels of refusal:
 ### Homework
 - Write a short text: plan a day out with a friend — include 3 suggestions, 1 disagreement, 1 compromise
 - Learn houden van / hekel hebben aan with 5 examples of each
-
----
-
-## S15 — Unit 12: ik stuur je wel een sms-je (pp 152–173)
-
-**Unit 12 themes:** Talking to people on the phone · the different uses of zouden · using prepositions
-
-### Objectives
-- [ ] Student can hold a basic phone conversation in Dutch
-- [ ] Student understands zouden as conditional and polite form
-- [ ] Student can use common prepositions correctly
-
-### Agenda
-| Time | Activity |
-|------|----------|
-| 0:00–0:10 | Warm-up: suggestions + houden van drill |
-| 0:10–0:35 | Unit 12 dialogue: open book, read + discuss |
-| 0:35–1:05 | Phone vocabulary + phone role play |
-| 1:05–1:35 | zouden: introduction — conditional and polite uses |
-| 1:35–1:50 | Exercise: rewrite sentences using zouden for politeness |
-| 1:50–2:00 | Homework |
-
-### Vocabulary — Phone
-| Dutch | English |
-|-------|---------|
-| Met wie spreek ik? | Who am I speaking to? |
-| Met [naam] | This is [name] (on the phone) |
-| Kan ik [naam] spreken? | Can I speak to [name]? |
-| Een ogenblikje, alstublieft | One moment please |
-| Hij/zij is er niet | He/she is not here |
-| Kan ik een boodschap achterlaten? | Can I leave a message? |
-| Ik bel later terug | I'll call back later |
-| De lijn is bezet | The line is busy |
-| Ik stuur je wel een sms-je | I'll just send you a text |
-| bellen / terugbellen / opbellen | to call / to call back / to call up |
-
-### Grammar — zouden (conditional / polite)
-**zouden** = would. Used for:
-1. Conditional (hypothetical): *Als ik meer tijd had, **zou** ik studeren.*
-2. Polite requests: ***Zou** u dat kunnen herhalen?*
-3. Reported speech/advice: *Hij zei dat ik meer moest studeren.*
-
-| ik zou | wij/we zouden |
-|--------|---------------|
-| jij/je zou | jullie zouden |
-| u zou | zij/ze zouden |
-| hij/zij/het zou | |
-
-Polite examples:
-- *Zou u mij kunnen helpen?* *(Could you help me?)*
-- *Ik zou graag een afspraak willen maken.* *(I would like to make an appointment.)*
-
-### Homework
-- Write a phone conversation (both sides, 12+ lines): calling to arrange a meeting
-- Write 5 polite requests using zouden
 
 ---
 

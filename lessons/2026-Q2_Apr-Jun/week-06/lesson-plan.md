@@ -1,13 +1,68 @@
 # Week 6
 
-**S16 (Mon 25 May):** Unit 12 continued — zouden in depth + prepositions
-**S17 (Thu 28 May):** Unit 13 — *ik weet echt niet wat ik wil* — book pp 174–192
-**S18 (Sun 31 May):** Unit 14 — *ik begrijp precies hoe je je voelt* — book pp 193–208
-**Cumulative hours:** 36
+**S16 (Mon 25 May):** Unit 12 — *ik stuur je wel een sms-je* — book pp 152–173
+**S17 (Thu 28 May):** Unit 12 continued — zouden in depth + prepositions
+**S18 (Sun 31 May):** Unit 13 — *ik weet echt niet wat ik wil* — book pp 174–192
+**Cumulative hours:** 34
 
 ---
 
-## S16 — Unit 12 continued: zouden in depth + prepositions (pp 152–173)
+## S16 — Unit 12: ik stuur je wel een sms-je (pp 152–173)
+
+**Unit 12 themes:** Talking to people on the phone · the different uses of zouden · using prepositions
+
+### Objectives
+- [ ] Student can hold a basic phone conversation in Dutch
+- [ ] Student understands zouden as conditional and polite form
+- [ ] Student can use common prepositions correctly
+
+### Agenda
+| Time | Activity |
+|------|----------|
+| 0:00–0:10 | Warm-up: suggestions + houden van drill |
+| 0:10–0:35 | Unit 12 dialogue: open book, read + discuss |
+| 0:35–1:05 | Phone vocabulary + phone role play |
+| 1:05–1:35 | zouden: introduction — conditional and polite uses |
+| 1:35–1:50 | Exercise: rewrite sentences using zouden for politeness |
+| 1:50–2:00 | Homework |
+
+### Vocabulary — Phone
+| Dutch | English |
+|-------|---------|
+| Met wie spreek ik? | Who am I speaking to? |
+| Met [naam] | This is [name] (on the phone) |
+| Kan ik [naam] spreken? | Can I speak to [name]? |
+| Een ogenblikje, alstublieft | One moment please |
+| Hij/zij is er niet | He/she is not here |
+| Kan ik een boodschap achterlaten? | Can I leave a message? |
+| Ik bel later terug | I'll call back later |
+| De lijn is bezet | The line is busy |
+| Ik stuur je wel een sms-je | I'll just send you a text |
+| bellen / terugbellen / opbellen | to call / to call back / to call up |
+
+### Grammar — zouden (conditional / polite)
+**zouden** = would. Used for:
+1. Conditional (hypothetical): *Als ik meer tijd had, **zou** ik studeren.*
+2. Polite requests: ***Zou** u dat kunnen herhalen?*
+3. Reported speech/advice: *Hij zei dat ik meer moest studeren.*
+
+| ik zou | wij/we zouden |
+|--------|---------------|
+| jij/je zou | jullie zouden |
+| u zou | zij/ze zouden |
+| hij/zij/het zou | |
+
+Polite examples:
+- *Zou u mij kunnen helpen?* *(Could you help me?)*
+- *Ik zou graag een afspraak willen maken.* *(I would like to make an appointment.)*
+
+### Homework
+- Write a phone conversation (both sides, 12+ lines): calling to arrange a meeting
+- Write 5 polite requests using zouden
+
+---
+
+## S17 — Unit 12 continued: zouden in depth + prepositions (pp 152–173)
 
 ### Objectives
 - [ ] Student can use zouden fluently for conditionals and politeness
@@ -50,7 +105,7 @@ Structure: **Als + [subject + verb at end], [main clause with zou(den)]**
 
 ---
 
-## S17 — Unit 13: ik weet echt niet wat ik wil (pp 174–192)
+## S18 — Unit 13: ik weet echt niet wat ik wil (pp 174–192)
 
 **Unit 13 themes:** Career advice and training · skills · using sub-clauses · using interjections
 
@@ -114,57 +169,6 @@ In a subordinate clause, **the verb goes to the END** of the clause.
 ### Homework
 - Combine 10 pairs of sentences using 5 different subordinating conjunctions
 - Write a paragraph about your career ambitions or study plans (use at least 4 subordinate clauses)
-
----
-
-## S18 — Unit 14: ik begrijp precies hoe je je voelt (pp 193–208)
-
-**Unit 14 themes:** Talking about physical and emotional well-being
-
-### Objectives
-- [ ] Student can describe physical ailments and emotions in Dutch
-- [ ] Student can use reflexive verbs (zich voelen, zich vergissen, etc.)
-- [ ] Student can express sympathy and give advice
-
-### Agenda
-| Time | Activity |
-|------|----------|
-| 0:00–0:10 | Homework review: subordinate clause sentences |
-| 0:10–0:35 | Unit 14 dialogue: open book, read + discuss |
-| 0:35–1:05 | Reflexive verbs: zich + reflexive pronoun |
-| 1:05–1:30 | Health + emotions vocabulary + expressing sympathy |
-| 1:30–1:50 | Role play: a conversation about how someone is feeling |
-| 1:50–2:00 | Homework for final week |
-
-### Vocabulary — Health & emotions
-| Dutch | English |
-|-------|---------|
-| Hoe voel je je? | How do you feel? |
-| Ik voel me niet lekker | I don't feel well |
-| Ik ben moe / gestrest / uitgeput | I'm tired / stressed / exhausted |
-| Ik ben blij / verdrietig / boos | I'm happy / sad / angry |
-| Ik maak me zorgen over… | I'm worried about… |
-| Dat begrijp ik | I understand that |
-| Wat vervelend voor je! | How unpleasant for you! |
-| Sterkte! | Good luck / Hang in there! |
-| Beterschap! | Get well soon! |
-| het lukt me niet | I can't manage it / I'm not succeeding |
-
-### Grammar — Reflexive verbs
-Reflexive pronouns: me (ik), je (jij), zich (hij/zij/u), ons (wij), je (jullie), zich (zij pl.)
-
-| Verb | Meaning | Example |
-|------|---------|---------|
-| zich voelen | to feel | Ik voel **me** niet lekker |
-| zich vergissen | to be mistaken | Hij vergist **zich** |
-| zich herinneren | to remember | We herinneren **ons** dat |
-| zich voorstellen | to introduce oneself | Sta me toe mij voor te stellen |
-| zich aankleden | to get dressed | Ze kleedt **zich** aan |
-| zich zorgen maken | to worry | Ik maak **me** zorgen |
-
-### Homework
-- Review all vocabulary from Units 01–14
-- Prepare a 3-minute spoken presentation for S19 (any topic from the course)
 
 ---
 
