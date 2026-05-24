@@ -15,7 +15,15 @@ handouts/
 │   ├── reference-je-jij-jou.md
 │   └── reference-bijvoeglijke-naamwoorden.md
 ├── teacher/                           # Teacher-only materials (scripts, answer keys)
-│   └── s10-luistertoets-leraar.md
+│   ├── s8-luistertoets-leraar.md
+│   ├── s9-luistertoets-leraar.md
+│   ├── s10-luistertoets-leraar.md
+│   ├── s12-luistertoets-leraar.md
+│   └── student-questions/             # Conversation prompts and student-facing question sheets
+│       ├── s8-luistertoets-student.md
+│       ├── s9-luistertoets-student.md
+│       ├── s12-luistertoets-student.md
+│       └── s15-icebreaker-weekend.md
 ├── tests/                             # Per-session tests (markdown)
 │   ├── s1-test-hallo-kom-binnen.md
 │   ├── s2-test-wat-doe-je.md

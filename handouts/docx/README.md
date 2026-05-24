@@ -81,6 +81,7 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 | teacher/student-questions/s8-luistertoets-student.docx | S8 | Student worksheet — listening + exercises |
 | teacher/student-questions/s9-luistertoets-student.docx | S9 | Student worksheet — listening + exercises |
 | teacher/student-questions/s12-luistertoets-student.docx | S12 | Student worksheet — listening + exercises |
+| teacher/student-questions/s15-icebreaker-weekend.docx | S15 | Icebreaker — weekend conversation questions (vrijdag + zaterdag) |
 
 ### Tests (`tests/`)
 
