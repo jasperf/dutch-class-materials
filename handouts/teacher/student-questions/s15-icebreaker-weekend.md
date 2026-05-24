@@ -1,4 +1,4 @@
-# IJsbreker S15 — Hoe was jouw weekend?
+# Startactiviteit S15 — Hoe was jouw weekend?
 
 **Datum:** Zondag 24 mei 2026
 **Doel:** Korte gespreksoefening aan het begin van de les — student vertelt over vrijdag en zaterdag.
