@@ -16,22 +16,69 @@
 
 ## **Onderwerpen & Vocabulaire**
 
-### **Telefoneren**
+### **Telefoneren — zakelijk (formeel)**
 | **Nederlands** | **Engels** |
 |----------------|------------|
-| Met wie spreek ik? | Who am I speaking to? |
-| Met [naam] | This is [name] (aan de telefoon) |
-| Kan ik [naam] spreken? | Can I speak to [name]? |
+| Met [naam] | This is [name] (answering) |
+| Zou ik [naam] even kunnen spreken? | Could I speak to [name]? (polite) |
+| Kan ik [naam] even spreken? | Can I speak to [name]? (informal) |
+| Kunt u me doorverbinden met [naam/toestel]? | Could you put me through to [name/ext.]? |
+| Mag ik toestel [nummer]? | Can I have extension [number]? |
 | Een ogenblikje, alstublieft | One moment please |
+| Momentje, ik zal even kijken | Just a moment, I'll have a look |
+| Ik verbind u door / Ik zal u doorverbinden | I'll put you through |
+| Het toestel is in gesprek | The extension is engaged |
+| Wilt u even wachten of belt u terug? | Will you hold on or ring back? |
+| terugbellen | to ring back |
+
+### **Telefoneren — informeel**
+| **Nederlands** | **Engels** |
+|----------------|------------|
+| Is [naam] er? | Is [name] around? |
+| Is [naam] thuis? | Is [name] at home? |
+| Mag ik hem/haar even? | Can I speak to him/her? |
+| Ja, ik zal hem/haar even roepen | Yes, I'll give him/her a shout |
 | Hij/zij is er niet | He/she is not here |
 | Kan ik een boodschap achterlaten? | Can I leave a message? |
 | Ik bel later terug | I'll call back later |
+| Ik bel je nog wel | I'll give you a ring |
+| Tot horens (dan) | Speak to you later (lit. hear from you later) |
+| Doei | Bye (informal) |
+
+### **Overig**
+| **Nederlands** | **Engels** |
+|----------------|------------|
+| bellen / opbellen / terugbellen | to call / to call up / to call back |
+| aannemen | to answer (the phone) |
 | De lijn is bezet | The line is busy |
 | Ik stuur je wel een sms-je | I'll just send you a text |
-| bellen / terugbellen / opbellen | to call / to call back / to call up |
-| aannemen | to answer (the phone) |
-| Ik verbind u door | I'll put you through |
-| Het toestel is in gesprek | The extension is engaged |
+| Hoe lang duurt het? | How long will it take? |
+| Het duurt (niet zo) lang | It will (not) be (that) long |
+
+### **Telefoontjes en mobiel**
+| **Nederlands** | **Engels** |
+|----------------|------------|
+| het (mobiele) telefoontje | (mobile) phone call |
+| het belletje | phone call (informal/diminutive) |
+| het sms-je | text message |
+| sms-en | to send a text |
+| het tekstbericht | text message (formal) |
+| het mobieltje / de gsm | mobile phone |
+| het nul-zes-nummer | mobile number (starts with 06 in NL) |
+| Bel me op mijn nul-zes-nummer | Call me on my mobile |
+
+### **Informele gesprekstaal (telefoon)**
+| **Nederlands** | **Engels** |
+|----------------|------------|
+| Hai, met mij | Hey, it's me |
+| Vertel eens! | Tell me! |
+| Nou en of! | Absolutely! / You bet! |
+| Van alles en nog wat | Everything and nothing / all sorts |
+| Dat gaat de goeie kant op | Things are looking up |
+| Dit lijkt serieus | This seems serious |
+| We zien wel | We'll see how it goes |
+| Ik moet weg | I need to go |
+| Bedankt voor het belletje | Thanks for calling |
 
 ---
 
@@ -49,9 +96,14 @@
 3. **Herinnering aan een plan** (you were going to…): *Je **zou** nog bellen.* / *We **zouden** om zeven uur afspreken.*
 4. **Advies geven:** *Je **zou** wat vroeger naar bed moeten gaan.*
 
-**zou + willen / kunnen** (extra beleefd):
+**zou + willen / kunnen** (extra beleefd — geen "alstublieft" nodig):
 - *Zou je dit voor me **willen** faxen?* (Would you mind faxing this?)
 - *Zou ik je pen **kunnen** lenen?* (Could I borrow your pen?)
+- *Zou je meneer Jansen voor me willen opbellen?* (Could you phone Mr. Jansen for me?)
+
+**5. Voorwaardelijk (conditioneel) — "als … zou … zou":**
+*Als ik de loterij **zou** winnen, **zou** ik stoppen met werken.*
+(If I were to win the lottery, I would stop working.)
 
 | **Enkelvoud** | **Meervoud** |
 |---------------|--------------|
@@ -63,6 +115,21 @@
 **Beleefde voorbeelden:**
 - *Zou u mij kunnen helpen?* (Could you help me?)
 - *Ik zou graag een afspraak willen maken.* (I would like to make an appointment.)
+
+---
+
+## **Voorzetsels bij telefoneren**
+
+Prepositions appear frequently in phone contexts — learn them as fixed combinations:
+
+| **Combinatie** | **Voorbeeld** | **Engels** |
+|----------------|---------------|------------|
+| **met** [naam] | *Met Douwe.* | This is Douwe. |
+| bellen **met** | *Jij zou nog bellen met die man.* | You were going to phone that man. |
+| doorverbinden **met** | *Ik verbind u door met toestel 289.* | I'll put you through to ext. 289. |
+| bezig zijn **met** | *We waren gisteren mee bezig.* | We were dealing with it yesterday. |
+| het hebben **over** | *Waar heb je het over gehad?* | What did you talk about? |
+| toegekomen **aan** | *Ik ben er nog niet aan toegekomen.* | I haven't got round to it yet. |
 
 ---
 
