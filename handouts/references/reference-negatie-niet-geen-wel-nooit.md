@@ -79,10 +79,9 @@ In een bijzin staat het werkwoord helemaal aan het einde. **Niet** staat dus vó
 
 ### Samenvatting: waar staat niet?
 
-```
-Einde van de zin ... TENZIJ er nog een adjective / bijwoord / voorzetsel / deelwoord volgt
-                     → dan staat NIET daarvóór.
-```
+> **Engels:** Niet, generally speaking, comes last in the sentence or the clause — but before the words which take the very last position, such as the past participle, the infinitive, or prepositional phrases.
+>
+> **Nederlands:** Niet staat over het algemeen aan het **einde van de zin of bijzin** — maar vóór de woorden die de allerlaatste positie innemen, zoals het voltooid deelwoord, de infinitief of een voorzetseluitdrukking.
 
 ---
 
