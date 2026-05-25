@@ -1,6 +1,6 @@
-# Handout S14 — Laten we naar Antwerpen gaan!
+# Handout S15 — Laten we naar Antwerpen gaan!
 
-**Datum:** Donderdag 21 mei 2026
+**Datum:** Zondag 24 mei 2026
 **Unit:** 11 — *laten we naar Antwerpen gaan* *(let's go to Antwerp)*
 **Boek:** blz. 134–151
 **Duur:** 2 uur

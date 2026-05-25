@@ -1,6 +1,6 @@
-# Handout S19 — Units 15–16 Survey + Revision
+# Handout S20 — Units 15–16 Survey + Revision
 
-**Datum:** Maandag 1 juni 2026
+**Datum:** Donderdag 4 juni 2026
 **Onderwerp:** **Overzicht Units 15–16 + Full Course Revision**
 **Boek:** blz. 209–243
 **Duur:** 2 uur

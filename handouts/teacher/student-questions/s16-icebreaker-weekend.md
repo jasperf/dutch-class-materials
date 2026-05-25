@@ -1,6 +1,6 @@
-# Startactiviteit S15 — Hoe was jouw weekend?
+# Startactiviteit S16 — Hoe was jouw weekend?
 
-**Datum:** Zondag 24 mei 2026
+**Datum:** Maandag 25 mei 2026
 **Doel:** Korte gespreksoefening aan het begin van de les — student vertelt over vrijdag en zaterdag.
 
 > **Leraarsnotitie:** Stel de vragen mondeling. Stimuleer gebruik van de voltooide tijd (perfekt) voor concrete acties en de onvoltooid verleden tijd (imperfekt) voor staat/beschrijving. S14 was overgeslagen, dus kennis loopt t/m S13.

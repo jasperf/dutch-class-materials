@@ -1,6 +1,6 @@
-# Handout S16 — Zouden in Depth + Prepositions
+# Handout S17 — Zouden in Depth + Prepositions
 
-**Datum:** Maandag 25 mei 2026
+**Datum:** Donderdag 28 mei 2026
 **Onderwerp:** Unit 12 vervolg — **zouden verdieping + voorzetsels**
 **Boek:** blz. 152–173
 **Duur:** 2 uur

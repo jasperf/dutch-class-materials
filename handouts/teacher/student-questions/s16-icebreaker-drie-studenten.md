@@ -1,6 +1,6 @@
-# Startactiviteit S15 — Drie studenten, drie gesprekken
+# Startactiviteit S16 — Drie studenten, drie gesprekken
 
-**Datum:** Zondag 24 mei 2026
+**Datum:** Maandag 25 mei 2026
 **Doel:** Mondeling gesprek aan het begin van de les — elke student krijgt een ander gespreksthema.
 **Grammatica-achtergrond:** S1–S13 (S14 overgeslagen)
 
