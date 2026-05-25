@@ -10,8 +10,9 @@
 ## **Leerdoelen**
 ✅ Je kunt **voorstellen doen** en erop reageren
 ✅ Je kunt **voorkeuren en afkeuren** nuancerder uiten
-✅ Je kunt **laten we…** en **Zullen we…?** gebruiken voor suggesties
+✅ Je kunt **laten we…**, **Zullen we…?** en **Heb je zin om… te…?** gebruiken voor suggesties
 ✅ Je kunt **vergelijkingen** maken met *even…als* en *meer/minder…dan*
+✅ Je kent de **wederkerend werkwoorden** en kunt ze correct plaatsen in een zin
 
 ---
 
@@ -53,14 +54,21 @@
 - **Laten we…** *Laten we naar Antwerpen gaan!*
 - **Zullen we…?** *Zullen we morgen afspreken?*
 - **Wat dacht je van…?** *Wat dacht je van een bezoek aan het museum?*
+- **Heb je zin om… te…?** *Heb je zin om naar de antiekmarkt te gaan?*
 
-### **2. Laten: twee betekenissen**
-*Laten* kan twee dingen betekenen:
+### **1b. Voorkeuren uitdrukken met *liever***
+- **liever** = would rather / prefer
+- *Ik ga liever naar de vogeltjesmarkt.* (I'd rather go to the bird market.)
+- *Ik eet liever vis dan vlees.*
+
+### **2. Laten: drie betekenissen**
+*Laten* kan drie dingen betekenen:
 
 | **Gebruik** | **Voorbeeld** |
 |-------------|---------------|
 | Suggestie ("Let's…") | *Laten we naar de markt gaan.* |
-| Iemand iets laten doen ("have/let sb do sth") | *De gids zal ons de stad laten zien.* |
+| Iemand iets laten doen ("have/let sb do sth") | *Ik laat de auto repareren.* / *De gids zal ons de stad laten zien.* |
+| Iets laten liggen/staan ("leave sth behind") | *Ik heb mijn tas laten liggen.* / *Laat me niet alleen.* |
 
 ### **3. houden van vs. vinden**
 - **houden van** + zelfstandig naamwoord: *Ik houd van kaas.* / *Ik houd van haar.*
@@ -90,15 +98,55 @@
 
 ---
 
+### **6. Wederkerend werkwoord (Reflexive verbs)**
+
+Sommige werkwoorden hebben altijd een wederkerend voornaamwoord (*me, je, zich, ons*).
+
+| **Infinitief** | **Betekenis** |
+|----------------|---------------|
+| zich haasten | to hurry |
+| zich vergissen | to be mistaken |
+| zich amuseren | to enjoy oneself |
+| zich vermaken | to have fun |
+| zich gedragen | to behave oneself |
+| zich herinneren | to remember |
+| zich verbazen | to be amazed |
+| zich voelen | to feel |
+| zich vervelen | to be bored |
+| zich schamen | to be ashamed |
+| zich verslapen | to oversleep |
+
+**Vormen:**
+
+| **Persoon** | **Voorbeeld** |
+|-------------|---------------|
+| Ik | Ik verveel **me**. |
+| Jij / Je | Jij verveelt **je**. |
+| U | U verveelt **zich**. |
+| Hij / Zij | Hij verveelt **zich**. |
+| Wij | Wij vervelen **ons**. |
+| Jullie | Jullie vervelen **je**. |
+| Zij | Zij vervelen **zich**. |
+
+**Plaatsing:**
+- In een gewone zin: het voornaamwoord komt **na het werkwoord**: *Ik verveel me.*
+- In een bijzin: het voornaamwoord komt **na het onderwerp**: *Hij zegt dat hij **zich** verveelt.*
+
+**Voor nadruk** gebruik je *mezelf / jezelf / zichzelf / onszelf*:
+- *Ik interesseer mezelf niet voor antiek.*
+
+---
+
 ## **Lesopzet (120 min)**
 
 | **Tijd** | **Activiteit** |
 |----------|----------------|
 | 0:00–0:10 | Huiswerkbespreking: verleden tijd verhaal correctie |
 | 0:10–0:35 | Dialoog Unit 11: boek open, lezen + bespreken |
-| 0:35–1:05 | Suggesties doen: laten we / zullen we / wat dacht je van |
-| 1:05–1:35 | Voorkeuren/afkeuren: houden van, hekel hebben aan, vinden |
-| 1:35–1:50 | Rolspel: een dagje uit plannen (suggesties doen, akkoord/oneens gaan, compromissen sluiten) |
+| 0:35–0:55 | Suggesties doen: laten we / zullen we / wat dacht je van / heb je zin om… te |
+| 0:55–1:15 | Voorkeuren/afkeuren: houden van, hekel hebben aan, vinden, liever |
+| 1:15–1:40 | Wederkerend werkwoord: uitleg + oefening (boek blz. 141) |
+| 1:40–1:50 | Rolspel: een dagje uit plannen (suggesties, akkoord/oneens, compromissen) |
 | 1:50–2:00 | Huiswerk toelichten |
 
 ---
