@@ -3,7 +3,7 @@
 **Total hours:** 40 (20 sessions × 2 hrs)
 **First session:** Mon 20 Apr 2026
 **Pattern:** Monday + Thursday (4:45–6:45 pm) · Sunday (10:00 am–12:00)
-**Finish:** Sun 7 Jun 2026 (spare slot now used as Final; S14 skipped 21 May on student request)
+**Finish:** Sun 14 Jun 2026 (extended one week to recover 3 sessions lost to a student holiday 28 May–1 Jun; S14 skipped 21 May on student request)
 **Textbook:** *Dutch* — Gerdi Quist & Dennis Strik (Teach Yourself, 2003)
 
 ---
@@ -23,9 +23,9 @@
 | 08 | heeft u een leuke vakantie gehad? | 93–108 | S9 |
 | 09 | ik heb bloemen voor je meegebracht | 109–120 | S11 |
 | 10 | vroeger *(in the past)* | 121–133 | S12–S13 |
-| 11 | laten we naar Antwerpen gaan | 134–151 | S14 |
-| 12 | ik stuur je wel een sms-je | 152–173 | S15–S16 |
-| 13 | ik weet echt niet wat ik wil | 174–192 | S17 |
+| 11 | laten we naar Antwerpen gaan | 134–151 | S15–S16 |
+| 12 | ik stuur je wel een sms-je | 152–173 | S16–S17 |
+| 13 | ik weet echt niet wat ik wil | 174–192 | S17–S18 |
 | 14 | ik begrijp precies hoe je je voelt | 193–208 | S18 (light) |
 | 15 | ik zit zowat de hele dag te computeren | 209–223 | S19 (survey) |
 | 16 | tv wordt steeds banaler | 224–243 | S19 (survey) |
@@ -50,13 +50,16 @@
 | S12 | 17 May | Sun | 2 | 24 | 10 | 121–133 | Times of day/week/year; simple past intro |
 | S13 | 18 May | Mon | 2 | 26 | 10 cont. | 121–133 | Simple past (imperfect), used to (vroeger) |
 | S14 | 21 May | Thu | — | 26 | 11 | 134–151 | **SKIPPED** (student request) |
-| S15 | 24 May | Sun | 2 | 28 | 11 | 134–151 | Suggestions, likes/dislikes, talking about food |
-| S16 | 25 May | Mon | 2 | 30 | 12 | 152–173 | Phone calls, zouden, prepositions |
-| S17 | 28 May | Thu | 2 | 32 | 12 cont. | 152–173 | Zouden in depth; preposition practice |
-| S18 | 31 May | Sun | 2 | 34 | 13 | 174–192 | Subordinate clauses, career, skills |
-| S19 | 1 Jun | Mon | 2 | 36 | 14 | 193–208 | Health, emotions, hoe je je voelt |
-| S20 | 4 Jun | Thu | 2 | 38 | 15 + 16 survey + revision | 209–243 | Internet/money + media/opinion; revision |
-| S21 | 7 Jun | Sun | 2 | 40 | Final | — | Conversation test, feedback, next steps |
+| S15 | 24 May | Sun | 2 | 28 | 11 | 134–140 | Suggestions (*laten we…*), likes/dislikes, food |
+| S15 cont. | 25 May | Mon | 2 | 30 | 11 | 141–147 | Unit 11 continued: *houden van, een hekel hebben aan* |
+| — | 28 May | Thu | — | 30 | — | — | **MISSED** (student holiday) |
+| — | 31 May | Sun | — | 30 | — | — | **MISSED** (student holiday) |
+| — | 1 Jun | Mon | — | 30 | — | — | **MISSED** (student holiday) |
+| S16 | 4 Jun | Thu | 2 | 32 | 11→12 | 148–173 | Finish Unit 11; start Unit 12: phone calls, *zouden* |
+| S17 | 7 Jun | Sun | 2 | 34 | 12→13 | 152–192 | Finish Unit 12 (prepositions); Unit 13: subordinate clauses |
+| S18 | 8 Jun | Mon | 2 | 36 | 13→14 | 174–208 | Unit 13 cont.; Unit 14: reflexive verbs, emotions |
+| S19 | 11 Jun | Thu | 2 | 38 | 15 + 16 | 209–243 | Units 15–16 survey: internet/money, media/opinion; revision |
+| S20 | 14 Jun | Sun | 2 | 40 | Final | — | Conversation test, feedback, next steps |
 
 ---
 
@@ -69,8 +72,9 @@
 | 3 | S7 Mon 4 May ☐ | S8 Thu 7 May ☐ | S9 Sun 10 May ☐ | | |
 | 4 | S10 Mon 11 May ☐ | S11 Thu 14 May ☐ | S12 Sun 17 May ☐ | | |
 | 5 | S13 Mon 18 May ☐ | S14 Thu 21 May — SKIPPED | S15 Sun 24 May ☐ | | |
-| 6 | S16 Mon 25 May ☐ | S17 Thu 28 May ☐ | S18 Sun 31 May ☐ | | |
-| 7 | S19 Mon 1 Jun ☐ | S20 Thu 4 Jun ☐ | S21 Sun 7 Jun ☐ | | |
+| 6 | S15 cont. Mon 25 May ☐ | Thu 28 May — holiday | Sun 31 May — holiday | | |
+| 7 | Mon 1 Jun — holiday | S16 Thu 4 Jun ☐ | S17 Sun 7 Jun ☐ | | |
+| 8 | S18 Mon 8 Jun ☐ | S19 Thu 11 Jun ☐ | S20 Sun 14 Jun ☐ | | |
 
 ---
 
@@ -88,8 +92,8 @@
 | S9 | perfect tense (hebben/zijn + past participle) |
 | S11 | zullen, indirect objects, saying what you prefer |
 | S12–S13 | simple past (imperfect), used to |
-| S15 | suggestions (laten we…), likes and dislikes |
+| S15–S16 | suggestions (laten we…), likes and dislikes |
 | S16–S17 | zouden (conditional), prepositions in depth |
-| S18 | subordinate clauses (dat/omdat/als), word order |
-| S19 | reflexive verbs, emotions vocabulary |
-| S20 | adverbs, comparing, structuring opinion |
+| S17–S18 | subordinate clauses (dat/omdat/als), word order |
+| S18 | reflexive verbs, emotions vocabulary |
+| S19 | adverbs, comparing, structuring opinion |
