@@ -23,7 +23,8 @@ handouts/
 │       ├── s8-luistertoets-student.md
 │       ├── s9-luistertoets-student.md
 │       ├── s12-luistertoets-student.md
-│       └── s15-icebreaker-weekend.md
+│       ├── s16-icebreaker-weekend.md
+│       └── s16-icebreaker-drie-studenten.md
 ├── tests/                             # Per-session tests (markdown)
 │   ├── s1-test-hallo-kom-binnen.md
 │   ├── s2-test-wat-doe-je.md
@@ -82,6 +83,14 @@ handouts/
 See [handouts/docx/README.md](docx/README.md) for DOCX files that can be imported into Google Docs.
 
 ## Generating DOCX
+
+The quick way (from the repo root) regenerates every category at once:
+
+```bash
+make docx
+```
+
+The explicit pandoc loops below do the same thing, per category:
 
 ```bash
 # Session handouts

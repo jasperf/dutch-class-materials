@@ -82,6 +82,7 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 | teacher/student-questions/s9-luistertoets-student.docx | S9 | Student worksheet — listening + exercises |
 | teacher/student-questions/s12-luistertoets-student.docx | S12 | Student worksheet — listening + exercises |
 | teacher/student-questions/s16-icebreaker-weekend.docx | S16 | Icebreaker — weekend conversation questions (vrijdag + zaterdag) |
+| teacher/student-questions/s16-icebreaker-drie-studenten.docx | S16 | Icebreaker — three-student conversation prompts |
 
 ### Tests (`tests/`)
 
@@ -98,7 +99,10 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 | s9-test-heeft-u-een-leuke-vakantie-gehad.docx | S9 | Perfect tense, holidays |
 | s10-test-midpunt-toets-units-1-8.docx | S10 | **Midpoint test — Units 01–08 (2 hr)** |
 | s11-test-ik-heb-bloemen-voor-je-meegebracht.docx | S11 | Invitations, separable verbs, om + te |
+| s12-test-vroeger.docx | S12 | Times, simple past (imperfect), vroeger |
+| s13-test-simple-past-in-depth.docx | S13 | Imperfect in depth, irregular verbs |
 | s15-test-laten-we-naar-antwerpen-gaan.docx | S15 | Suggestions, reflexive verbs, laten, vergelijkingen |
+| s16-test-ik-stuur-je-wel-een-sms-je.docx | S16 | Phone, zou(den), Unit 12 vocabulary |
 
 ---
 
@@ -106,6 +110,9 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 
 DOCX files are generated from the markdown source files using [Pandoc](https://pandoc.org/).
 All commands are run from the **project root**.
+
+> **Quick way:** `make docx` regenerates every category below in one go.
+> The explicit per-category commands that follow are kept as reference.
 
 ### Requirements
 - Pandoc installed: `brew install pandoc`
