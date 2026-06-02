@@ -62,10 +62,11 @@ handouts/
 | S11 | s11-ik-heb-bloemen-voor-je-meegebracht.md | Invitations, dinner | 09 | 109–120 |
 | S12 | s12-vroeger.md | Past habits, time | 10 | 121–133 |
 | S13 | s13-simple-past-in-depth.md | Imperfect tense | 10 | 121–133 |
-| S14 | s14-laten-we-naar-antwerpen-gaan.md | Suggestions, likes | 11 | 134–151 |
-| S15 | s15-ik-stuur-je-wel-een-sms-je.md | Phone, zou(den) | 12 | 152–173 |
-| S16 | s16-zouden-in-depth.md | Conditionals, prepositions | 12 | 152–173 |
-| S17 | s17-ik-weet-echt-niet-wat-ik-wil.md | Career, clauses | 13 | 174–192 |
+| — | *(S14 skipped 21 May — student request)* | — | 11 | 134–151 |
+| S15 | s15-laten-we-naar-antwerpen-gaan.md | Suggestions, likes | 11 | 134–151 |
+| S16 | s16-ik-stuur-je-wel-een-sms-je.md | Phone, zou(den) | 12 | 152–173 |
+| S17a | s17a-zouden-in-depth.md | Conditionals, prepositions | 12 | 152–173 |
+| S17b | s17b-ik-weet-echt-niet-wat-ik-wil.md | Career, clauses | 13 | 174–192 |
 | S18 | s18-ik-begrijp-precies-hoe-je-je-voelt.md | Health, emotions | 14 | 193–208 |
 | S19 | s19-units-15-16-survey.md | Internet, media, revision | 15–16 | 209–243 |
 | S20 | s20-final-session.md | Final test + feedback | — | — |

@@ -1,6 +1,6 @@
 # Handout S16 — Ik stuur je wel een sms-je
 
-**Datum:** Maandag 25 mei 2026
+**Datum:** Donderdag 4 juni 2026
 **Unit:** 12 — *ik stuur je wel een sms-je* *(I'll just send you a text)*
 **Boek:** blz. 152–173
 **Duur:** 2 uur

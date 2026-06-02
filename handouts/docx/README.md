@@ -49,13 +49,13 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 | S11 | s11-ik-heb-bloemen-voor-je-meegebracht.docx | Invitations, dinner | 09 |
 | S12 | s12-vroeger.docx | Past habits, time | 10 |
 | S13 | s13-simple-past-in-depth.docx | Imperfect tense | 10 |
-| S15 | s15-laten-we-naar-antwerpen-gaan.docx | Suggestions, likes, reflexive verbs | 11 |
+| S15 | s15-laten-we-naar-antwerpen-gaan.docx | Suggestions, likes | 11 |
 | S16 | s16-ik-stuur-je-wel-een-sms-je.docx | Phone, zou(den) | 12 |
-| S17 | s17-zouden-in-depth.docx | Conditionals, prepositions | 12 |
-| S18 | s18-ik-weet-echt-niet-wat-ik-wil.docx | Career, clauses | 13 |
-| S19 | s19-ik-begrijp-precies-hoe-je-je-voelt.docx | Health, emotions | 14 |
-| S20 | s20-units-15-16-survey.docx | Internet, media, revision | 15–16 |
-| S21 | s21-final-session.docx | Final test + feedback | — |
+| S17a | s17a-zouden-in-depth.docx | Conditionals, prepositions | 12 |
+| S17b | s17b-ik-weet-echt-niet-wat-ik-wil.docx | Career, clauses | 13 |
+| S18 | s18-ik-begrijp-precies-hoe-je-je-voelt.docx | Health, emotions | 14 |
+| S19 | s19-units-15-16-survey.docx | Internet, media, revision | 15–16 |
+| S20 | s20-final-session.docx | Final test + feedback | — |
 
 ### Reference sheets (`references/`)
 

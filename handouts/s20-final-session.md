@@ -1,6 +1,6 @@
-# Handout S21 — Final Session
+# Handout S20 — Final Session
 
-**Datum:** Zondag 7 juni 2026
+**Datum:** Zondag 14 juni 2026
 **Onderwerp:** **Eindgesprek + Feedback**
 **Duur:** 2 uur
 

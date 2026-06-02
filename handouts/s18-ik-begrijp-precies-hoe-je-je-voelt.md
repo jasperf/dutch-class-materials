@@ -1,6 +1,6 @@
-# Handout S19 — Ik begrijp precies hoe je je voelt
+# Handout S18 — Ik begrijp precies hoe je je voelt
 
-**Datum:** Maandag 1 juni 2026
+**Datum:** Maandag 8 juni 2026
 **Unit:** 14 — *ik begrijp precies hoe je je voelt* *(I understand exactly how you feel)*
 **Boek:** blz. 193–208
 **Duur:** 2 uur
