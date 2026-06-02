@@ -135,20 +135,39 @@ caused becomes a single edit to `schedule.md`.
 
 ## Regenerate artifacts
 
+A `Makefile` at the repo root wraps the repetitive steps. Run `make help` to
+list targets.
+
 **Emails** — after editing `emails/_generate.py`:
 ```bash
-python3 emails/_generate.py
+make emails        # = python3 emails/_generate.py
 ```
 
-**DOCX** (gitignored; regenerate from markdown — requires `pandoc`):
+**DOCX** (gitignored; regenerated from markdown — requires `pandoc`):
 ```bash
-# Session handouts
-for f in handouts/*.md; do pandoc "$f" -o "handouts/docx/$(basename "${f%.md}").docx"; done
-# Tests
-for f in handouts/tests/*.md; do pandoc "$f" -o "handouts/docx/tests/$(basename "${f%.md}").docx"; done
+make docx          # handouts, tests, teacher, student-questions, references
 ```
-After renaming markdown, delete any orphaned old-named docx so the export folder
-doesn't accumulate stale files.
+`make docx` covers every category and creates the output sub-folders as needed.
+After renaming markdown, run `make clean-docx && make docx` so the export folder
+doesn't keep orphaned old-named files.
+
+## Pre-flight consistency check
+
+Before committing a re-dated or renamed quarter, run:
+```bash
+make check         # = python3 scripts/check_consistency.py
+```
+It flags the two drift modes that have bitten this repo before, **without**
+rewriting anything (the session-map tables carry editorial rows — SKIPPED /
+MISSED / "S15 cont." / the S17a/S17b split — that no generator should own):
+
+- **Date drift** — a session whose date in `emails/_generate.py` disagrees with
+  `lessons/<Q>/schedule.md` (the two sources of truth above).
+- **Rename drift** — a handout/test/reference markdown file that no README table
+  lists, or a README row pointing at a file that no longer exists. This is the
+  check to lean on during a **Path B** rename pass.
+
+Fix what it reports, then commit.
 
 ---
 
