@@ -10,11 +10,11 @@ emails/
 ├── README.md              ← this file
 ├── _template.md           ← blank template for a one-off or new quarter
 ├── _generate.py           ← script to regenerate all emails for a quarter
-└── 2026-Q2_Apr-Jun/       ← Q2 2026 (20 Apr – 4 Jun)
+└── 2026-Q2_Apr-Jun/       ← Q2 2026 (20 Apr – 14 Jun)
     ├── s01-email.md       ← 20 Apr 2026
     ├── s02-email.md       ← 23 Apr 2026
     ├── ...
-    └── s20-email.md       ← 4 Jun 2026
+    └── s20-email.md       ← 14 Jun 2026 (Final)
 ```
 
 ## Format

@@ -1,29 +1,28 @@
-# Email — S20 — Units 15–16 Survey + Herhaling
+# Email — S20 — Eindgesprek en feedback
 
 **To:** [student email]
-**Subject:** Dutch class today — 4 June 2026
+**Subject:** Dutch class today — 14 June 2026
 
 ---
 
 Dear Students,
 
-Here are the meetup links for today's class, 4 June 2026 (Thursday, 4:45–6:45 pm):
+Here are the meetup links for today's class, 14 June 2026 (Sunday, 10:00 am–12:00 pm):
 
 [GOOGLE_MEET_URL_HOUR_1]
 [GOOGLE_MEET_URL_HOUR_2]
 
 ---
 
-**Today's session: S20 — Units 15–16 Survey + Herhaling (Units 15–16)**
+**Today's session: S20 — Eindgesprek en feedback (Final session)**
 
 In today's class we will cover:
-- Survey of Units 15–16: internet, money, media and opinion
-- Expressing opinions and comparisons: *vinden, denken, menen*
-- Adverbs and sentence connectors
-- Revision of all major grammar from the course
-- Spoken presentation (homework from S19)
+- Oral conversation test: free discussion on topics from the whole course
+- Written self-assessment: what has improved, what needs more work
+- Feedback session: your progress over 20 sessions
+- Advice and resources for continuing your Dutch independently
 
-Please have your textbook open to pages 209–243.
+No new textbook pages for this session.
 
 See you soon!
 Jasper
