@@ -19,13 +19,14 @@ Each session handout (`handouts/sNN-*.md`) covers a specific book unit. The book
 | S11 | 09 — Ik heb bloemen voor je meegebracht | blz. 109–120 | `02_Lessons_01-10.md` |
 | S12 | 10 — Vroeger                            | blz. 121–133 | `02_Lessons_01-10.md` |
 | S13 | 10 vervolg — Simple past in depth       | blz. 121–133 | `02_Lessons_01-10.md` |
-| S14 | 11 — Laten we naar Antwerpen gaan!      | blz. 134–151 | `03_Lessons_11-20.md` |
-| S15 | 12 — Ik stuur je wel een sms-je         | blz. 152–173 | `03_Lessons_11-20.md` |
-| S16 | 12 vervolg — Zouden + voorzetsels       | blz. 152–173 | `03_Lessons_11-20.md` |
-| S17 | 13 — Ik weet echt niet wat ik wil       | blz. 174–192 | `03_Lessons_11-20.md` |
-| S18 | 14 — Ik begrijp precies hoe je je voelt | blz. 193–208 | `03_Lessons_11-20.md` |
-| S19 | 15–16 survey + revision                 | blz. 209–243 | `03_Lessons_11-20.md` |
-| S20 | Final session                           | all          | all |
+| S14  | _SKIPPED (student request) — Unit 11 taught in S15–S16_ | blz. 134–151 | `03_Lessons_11-20.md` |
+| S15  | 11 — Laten we naar Antwerpen gaan!      | blz. 134–151 | `03_Lessons_11-20.md` |
+| S16  | 12 — Ik stuur je wel een sms-je (+ finish 11) | blz. 148–173 | `03_Lessons_11-20.md` |
+| S17a | 12 vervolg — Zouden + voorzetsels       | blz. 152–173 | `03_Lessons_11-20.md` |
+| S17b | 13 — Ik weet echt niet wat ik wil       | blz. 174–192 | `03_Lessons_11-20.md` |
+| S18  | 14 — Ik begrijp precies hoe je je voelt | blz. 193–208 | `03_Lessons_11-20.md` |
+| S19  | 15–16 survey + revision                 | blz. 209–243 | `03_Lessons_11-20.md` |
+| S20  | Final session                           | all          | all |
 
 **Note:** OCR `## Pagina NN` numbers are the physical PDF page numbers, not the book's printed page numbers. Use keyword search to locate the right section.
 
