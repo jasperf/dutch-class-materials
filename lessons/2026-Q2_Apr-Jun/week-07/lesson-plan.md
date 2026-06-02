@@ -1,168 +1,145 @@
 # Week 7
 
-**S19 (Mon 1 Jun):** Unit 14 — *ik begrijp precies hoe je je voelt* — book pp 193–208
-**S20 (Thu 4 Jun):** Units 15–16 survey + revision — book pp 209–243
-**S21 (Sun 7 Jun):** Final session — conversation test + feedback
-**Cumulative hours:** 40 ← COURSE COMPLETE
+**Mon 1 Jun:** HOLIDAY — no class (students away)
+**S16 (Thu 4 Jun):** Finish Unit 11 + Unit 12 — *ik stuur je wel een sms-je* — book pp 148–173
+**S17 (Sun 7 Jun):** Finish Unit 12 (zouden, prepositions) + Unit 13 intro — book pp 152–192
+**Cumulative hours:** 34
 
 ---
 
-## S19 — Unit 14: ik begrijp precies hoe je je voelt (pp 193–208)
+## Mon 1 Jun — HOLIDAY
 
-**Unit 14 themes:** Talking about physical and emotional well-being
+_No class — students on holiday. Course resumes Thu 4 Jun._
+
+---
+
+## S16 — Finish Unit 11 + Unit 12: ik stuur je wel een sms-je (pp 148–173)
+
+**Unit 12 themes:** Talking to people on the phone · the different uses of *zouden* · using prepositions
 
 ### Objectives
-- [ ] Student can describe physical ailments and emotions in Dutch
-- [ ] Student can use reflexive verbs (zich voelen, zich vergissen, etc.)
-- [ ] Student can express sympathy and give advice
+- [ ] Student wraps up Unit 11 (suggestions, likes/dislikes)
+- [ ] Student can hold a basic phone conversation in Dutch
+- [ ] Student understands *zouden* as conditional and polite form
 
 ### Agenda
 | Time | Activity |
 |------|----------|
-| 0:00–0:10 | Homework review: subordinate clause sentences |
-| 0:10–0:35 | Unit 14 dialogue: open book, read + discuss |
-| 0:35–1:05 | Reflexive verbs: zich + reflexive pronoun |
-| 1:05–1:30 | Health + emotions vocabulary + expressing sympathy |
-| 1:30–1:50 | Role play: a conversation about how someone is feeling |
-| 1:50–2:00 | Homework for final week |
+| 0:00–0:15 | Welcome back; recap Unit 11 (suggestions, *houden van*) |
+| 0:15–0:35 | Finish Unit 11 pp 148–151 |
+| 0:35–0:55 | Unit 12 dialogue: open book, read + discuss |
+| 0:55–1:25 | Phone vocabulary + phone role play |
+| 1:25–1:50 | *zouden*: introduction — conditional and polite uses |
+| 1:50–2:00 | Homework |
 
-### Vocabulary — Health & emotions
+### Vocabulary — Phone
 | Dutch | English |
 |-------|---------|
-| Hoe voel je je? | How do you feel? |
-| Ik voel me niet lekker | I don't feel well |
-| Ik ben moe / gestrest / uitgeput | I'm tired / stressed / exhausted |
-| Ik ben blij / verdrietig / boos | I'm happy / sad / angry |
-| Ik maak me zorgen over… | I'm worried about… |
-| Dat begrijp ik | I understand that |
-| Wat vervelend voor je! | How unpleasant for you! |
-| Sterkte! | Good luck / Hang in there! |
-| Beterschap! | Get well soon! |
-| het lukt me niet | I can't manage it / I'm not succeeding |
+| Met wie spreek ik? | Who am I speaking to? |
+| Met [naam] | This is [name] (on the phone) |
+| Kan ik [naam] spreken? | Can I speak to [name]? |
+| Een ogenblikje, alstublieft | One moment please |
+| Hij/zij is er niet | He/she is not here |
+| Kan ik een boodschap achterlaten? | Can I leave a message? |
+| Ik bel later terug | I'll call back later |
+| De lijn is bezet | The line is busy |
+| Ik stuur je wel een sms-je | I'll just send you a text |
+| bellen / terugbellen / opbellen | to call / to call back / to call up |
 
-### Grammar — Reflexive verbs
-Reflexive pronouns: me (ik), je (jij), zich (hij/zij/u), ons (wij), je (jullie), zich (zij pl.)
+### Grammar — zouden (conditional / polite)
+**zouden** = would. Used for:
+1. Conditional (hypothetical): *Als ik meer tijd had, **zou** ik studeren.*
+2. Polite requests: ***Zou** u dat kunnen herhalen?*
+3. Reported speech/advice: *Hij zei dat ik meer moest studeren.*
 
-| Verb | Meaning | Example |
-|------|---------|---------|
-| zich voelen | to feel | Ik voel **me** niet lekker |
-| zich vergissen | to be mistaken | Hij vergist **zich** |
-| zich herinneren | to remember | We herinneren **ons** dat |
-| zich voorstellen | to introduce oneself | Sta me toe mij voor te stellen |
-| zich aankleden | to get dressed | Ze kleedt **zich** aan |
-| zich zorgen maken | to worry | Ik maak **me** zorgen |
+| ik zou | wij/we zouden |
+|--------|---------------|
+| jij/je zou | jullie zouden |
+| u zou | zij/ze zouden |
+| hij/zij/het zou | |
+
+Polite examples:
+- *Zou u mij kunnen helpen?* *(Could you help me?)*
+- *Ik zou graag een afspraak willen maken.* *(I would like to make an appointment.)*
 
 ### Homework
-- Review all vocabulary from Units 01–14
-- Prepare a 3-minute spoken presentation for S20 (any topic from the course)
+- Write a phone conversation (both sides, 12+ lines): calling to arrange a meeting
+- Write 5 polite requests using *zouden*
 
 ---
 
-## S20 — Units 15–16 survey + revision (pp 209–243)
+## S17 — Finish Unit 12 (zouden, prepositions) + Unit 13 intro (pp 152–192)
 
-**Unit 15 themes:** Internet services · travel insurance · money expressions · comparing things
-**Unit 16 themes:** Media in the Netherlands · giving your opinion · structuring information · adverbs
+**Unit 13 themes:** Career advice and training · skills · using sub-clauses
 
 ### Objectives
-- [ ] Student has an overview of Units 15–16 topics for self-study
-- [ ] Student completes 3-min spoken presentation (homework from S19)
-- [ ] All major grammar from the course reviewed
+- [ ] Student can use *zouden* fluently for conditionals and politeness
+- [ ] Student knows the most common verb + preposition combinations
+- [ ] Student understands word order in subordinate clauses (verb to end)
 
 ### Agenda
 | Time | Activity |
 |------|----------|
-| 0:00–0:25 | Spoken presentation (homework from S19) + feedback |
-| 0:25–0:55 | Units 15–16 overview: open book, browse + highlight key points |
-| 0:55–1:25 | Full grammar review: whiteboard summary of entire course |
-| 1:25–1:50 | Mock conversation — teacher plays various roles at random |
-| 1:50–2:00 | Brief for final session |
+| 0:00–0:10 | Homework review: phone dialogue + *zouden* sentences |
+| 0:10–0:35 | Conditional sentences: *Als… zou(den)…* |
+| 0:35–1:05 | Prepositions: fixed verb + preposition combinations |
+| 1:05–1:35 | Unit 13 dialogue + subordinate clause word order (verb to END) |
+| 1:35–1:50 | Combine sentences with *dat / omdat / als* |
+| 1:50–2:00 | Homework |
 
-### Unit 15 highlights (self-study)
-| Topic | Key vocabulary |
-|-------|---------------|
-| Internet / tech | de website, surfen op het internet, downloaden, uploaden |
-| Travel insurance | de reisverzekering, verzekerd zijn, schade melden |
-| Money expressions | lenen, terugbetalen, rente, op afbetaling kopen |
-| Comparing | even … als (as … as), meer … dan (more … than), minder … dan |
+### Conditional sentences
+Structure: **Als + [subject + verb at end], [main clause with zou(den)]**
+- *Als ik meer geld had, **zou** ik een reis maken.*
+- *Als het mooi weer was, **zouden** we buiten zitten.*
 
-### Unit 16 highlights (self-study)
-| Topic | Key vocabulary |
-|-------|---------------|
-| Media | de krant, het journaal, de uitzending, de kijker |
-| Opinions | naar mijn mening, ik ben van mening dat, ik vind dat |
-| Structuring | ten eerste, ten tweede, tot slot, bovendien, daarentegen |
-| Adverbs | eigenlijk, waarschijnlijk, misschien, zeker, gelukkig, helaas |
+### Verb + preposition combinations (vaste verbindingen)
+| Dutch | English |
+|-------|---------|
+| wachten **op** | to wait for |
+| kijken **naar** | to look at / watch |
+| luisteren **naar** | to listen to |
+| denken **aan** | to think about |
+| houden **van** | to love |
+| praten **over** | to talk about |
+| bang zijn **voor** | to be afraid of |
+| blij zijn **met** | to be happy with |
+| zorgen **voor** | to take care of |
+| beginnen **met** | to start with / begin |
+| stoppen **met** | to stop |
 
-### Full course grammar summary
-| Grammar point | Key rule |
-|--------------|---------|
-| zijn / hebben | Full conjugation from memory |
-| de / het | Learn with every noun; diminutives always het |
-| Plurals | -en, -s, -'s, vowel-change types |
-| Adjective endings | -e everywhere; exception: een + het-word |
-| Modal verbs | + infinitive at end of clause |
-| Negation | niet (verbs/adj) vs. geen (nouns) |
-| Questions | Inversion: V + S; jij → je after inversion |
-| Telling time | half X = X minus 30 min! |
-| Separable verbs | Prefix to end in main clause |
-| Reflexive verbs | me/je/zich/ons |
-| Perfect tense | hebben/zijn + ge…t/d; irregular list |
-| Simple past | stem + -te/-de; irregular list |
-| zullen | offers, suggestions, future |
-| zouden | conditional, polite requests |
-| Subordinate clauses | verb to end; want ≠ omdat |
-| Comparatives | even … als / meer … dan |
+### Grammar — Subordinate clauses (Unit 13 intro)
+In a subordinate clause, **the verb goes to the END** of the clause.
 
----
+**Main clause:** Ik weet het niet.
+**Sub-clause with dat:** Ik weet **dat hij morgen komt**. (not: dat hij komt morgen)
 
-## S21 — Final session (Sun 7 Jun)
+**With perfect tense:** auxiliary goes last, after participle:
+- Ik denk **dat hij gisteren is gekomen**.
 
-### Objectives
-- [ ] Extended conversation test: 40 minutes of unscripted Dutch
-- [ ] Student receives written assessment with scores
-- [ ] Discuss next steps, celebrate completing 40 hours
+**With modal:** infinitive last, modal second-to-last:
+- Ze zegt **dat ze meer moet werken**.
 
-### Agenda
-| Time | Activity |
-|------|----------|
-| 0:00–0:10 | Warm-up: favourite Dutch word or phrase from the course |
-| 0:10–0:50 | Conversation test: teacher plays 4–5 different scenarios |
-| 0:50–1:20 | Written feedback: go through assessment together |
-| 1:20–1:40 | Next steps: resources, what to do after the course |
-| 1:40–2:00 | Questions, celebration, goodbye |
+| Dutch | English | Note |
+|-------|---------|------|
+| dat | that | most common |
+| omdat | because | verb to end |
+| als / wanneer | if / when | verb to end |
+| toen | when (past, once) | verb to end |
+| terwijl | while | verb to end |
+| hoewel | although | verb to end |
+| zodat | so that | verb to end |
+| of | whether / if | verb to end |
 
-### Conversation test scenarios (pick 4–5)
-- [ ] Meeting someone new at a party — introduce yourself + ask about them (Unit 01–02)
-- [ ] Asking for directions and following them (Unit 05)
-- [ ] Buying items at a market (Unit 04)
-- [ ] Buying a train ticket + discussing travel plans (Unit 07)
-- [ ] Talking about last weekend using the perfect tense (Unit 08)
-- [ ] Planning a day out — make suggestions, agree/disagree (Unit 11)
-- [ ] A phone call to arrange a meeting (Unit 12)
-- [ ] Talking about your career goals using subordinate clauses (Unit 13)
-- [ ] Describing how you feel today and why (Unit 14)
+**want vs. omdat:**
+- **want** = coordinating (no word order change): *Ik bel je, want ik ben ziek.*
+- **omdat** = subordinating (verb to end): *Ik bel je omdat ik ziek ben.*
 
-### Assessment rubric
-| Area | Max pts |
-|------|---------|
-| Pronunciation | 20 |
-| Grammar accuracy | 25 |
-| Vocabulary range | 20 |
-| Fluency & communication | 25 |
-| Listening comprehension | 10 |
-| **Total** | **100** |
-
-### Next steps for the student
-- **Level reached:** A2 (CEFR) — functional in everyday situations
-- **Book chapters for self-study:** Units 15–16 (+ key to exercises p. 244, appendix p. 262)
-- **To reach B1:**
-  - NT2 (Nederlands als Tweede Taal) online exercises
-  - Graded readers A2/B1
-  - Dutch news: nos.nl, nieuws.nl
-  - Streaming: Dutch subtitles on Netflix / NPO Start
-  - Conversation exchange: Tandem or HelloTalk app
+### Homework
+- Write 3 conditional sentences (*Als… zou…*)
+- Write 8 sentences using different verb + preposition combinations
+- Combine 6 pairs of sentences using subordinating conjunctions (verb to end)
 
 ---
 
 ## Week 7 notes
-_[Fill in after teaching — include final assessment scores and feedback]_
+_[Fill in after teaching]_

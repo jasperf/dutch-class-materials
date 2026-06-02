@@ -2,7 +2,7 @@
 
 **S13 (Mon 18 May):** Unit 10 continued — simple past in depth
 **S14 (Thu 21 May):** SKIPPED (student request)
-**S15 (Sun 24 May):** Unit 11 — *laten we naar Antwerpen gaan* — book pp 134–151
+**S15 (Sun 24 May):** Unit 11 — *laten we naar Antwerpen gaan* — book pp 134–140 *(continues Mon 25 May → [Week 6](../week-06/lesson-plan.md))*
 **Cumulative hours:** 28
 
 ---
@@ -70,7 +70,7 @@ _Class cancelled on 21 May at student request. Unit 11 content is taught in S15 
 
 ---
 
-## S15 — Unit 11: laten we naar Antwerpen gaan (pp 134–151)
+## S15 — Unit 11: laten we naar Antwerpen gaan (pp 134–151, across Sun 24 + Mon 25 May)
 
 **Unit 11 themes:** Expressing likes and dislikes · saying something is or isn't a good idea · making suggestions · talking about food · saying 'no' politely
 
