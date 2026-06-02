@@ -111,6 +111,10 @@ dutch-class/
 
 ## Adding a new course quarter
 
+> See [`docs/new-quarter.md`](docs/new-quarter.md) for the full runbook, including
+> the optional refactor to unit-based, date-free content that makes future quarters
+> a near-instant setup. The quick steps below are the pragmatic copy-and-re-date path.
+
 ### 1. Copy the quarter folder
 
 ```bash
