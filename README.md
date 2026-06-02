@@ -26,7 +26,7 @@ dutch-class/
 │   ├── 2026-Q2_Apr-Jun/          # Active course (Apr–Jun 2026)
 │   │   ├── README.md             # Quarter overview and quick links
 │   │   ├── schedule.md           # Full 20-session schedule with dates, units, and topics
-│   │   └── week-01/ … week-07/   # Per-week lesson plans (three sessions each, full content)
+│   │   └── week-01/ … week-08/   # Per-week lesson plans (three sessions each, full content)
 │   └── templates/
 │       └── lesson-plan-template.md
 ├── docs/
@@ -75,7 +75,7 @@ dutch-class/
 
 ## Current course — April–June 2026
 
-- **Period:** Mon 20 Apr – Thu 4 Jun 2026 (spare: Sun 7 Jun)
+- **Period:** Mon 20 Apr – Sun 14 Jun 2026 (extended one week after a student holiday; S14 skipped)
 - **Total hours:** 40 (20 sessions × 2 hrs)
 - **Pattern:** Monday + Thursday (4:45–6:45 pm) · Sunday (10:00 am–12:00)
 - **Main textbook:** *Dutch* — Gerdi Quist & Dennis Strik (Teach Yourself)
@@ -98,13 +98,14 @@ dutch-class/
 | S11 | Thu 14 May | 09 | Invitations, dinner, zullen |
 | S12 | Sun 17 May | 10 | Times, simple past (imperfect) |
 | S13 | Mon 18 May | 10 cont. | Simple past in depth, vroeger |
-| S14 | Thu 21 May | 11 | Suggestions, likes/dislikes |
-| S15 | Sun 24 May | 12 | Phone calls, zouden |
-| S16 | Mon 25 May | 12 cont. | Conditionals, prepositions |
-| S17 | Thu 28 May | 13 | Subordinate clauses, career |
-| S18 | Sun 31 May | 14 | Health, emotions, reflexive verbs |
-| S19 | Mon 1 Jun | 15–16 survey + revision | Overview + full grammar review |
-| S20 | Thu 4 Jun | — | Final conversation test + feedback |
+| S14 | Thu 21 May | 11 | **Skipped** (student request) |
+| S15 | Sun 24 + Mon 25 May | 11 | Suggestions, likes/dislikes, food |
+| — | 28 May – 1 Jun | — | **Holiday** — no class (3 sessions missed) |
+| S16 | Thu 4 Jun | 11→12 | Finish Unit 11; phone calls, zouden |
+| S17 | Sun 7 Jun | 12→13 | Zouden in depth, prepositions; subordinate clauses |
+| S18 | Mon 8 Jun | 13→14 | Career & clauses; health, emotions, reflexive verbs |
+| S19 | Thu 11 Jun | 15–16 | Internet/media survey + full revision |
+| S20 | Sun 14 Jun | — | Final conversation test + feedback |
 
 ---
 
