@@ -17,3 +17,7 @@ diaries/
 # Ignore all DOCX files anywhere under handouts/
 handouts/**/*.docx
 create-pr.sh
+
+# Python bytecode cache (e.g. from importing emails/_generate.py)
+__pycache__/
+*.pyc
