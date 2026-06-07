@@ -64,6 +64,7 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 | references/reference-numbers-10-100.docx | Numbers 10–100 in Dutch |
 | references/reference-je-jij-jou.docx | Je / Jij / Jou — tweede persoon enkelvoud |
 | references/reference-bijvoeglijke-naamwoorden.docx | Bijvoeglijke naamwoorden — de -e regel |
+| references/en/reference-zouden.docx | *Zouden* — the conditional "would", all five uses (English) |
 
 ### Teacher materials (`teacher/`)
 
@@ -83,6 +84,7 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 | teacher/student-questions/s12-luistertoets-student.docx | S12 | Student worksheet — listening + exercises |
 | teacher/student-questions/s16-icebreaker-weekend.docx | S16 | Icebreaker — weekend conversation questions (vrijdag + zaterdag) |
 | teacher/student-questions/s16-icebreaker-drie-studenten.docx | S16 | Icebreaker — three-student conversation prompts |
+| teacher/student-questions/s17a-gesprek-loterij.docx | S17a | Conversation — "Als ik de loterij zou winnen…" (zouden practice) |
 
 ### Tests (`tests/`)
 
@@ -103,6 +105,8 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 | s13-test-simple-past-in-depth.docx | S13 | Imperfect in depth, irregular verbs |
 | s15-test-laten-we-naar-antwerpen-gaan.docx | S15 | Suggestions, reflexive verbs, laten, vergelijkingen |
 | s16-test-ik-stuur-je-wel-een-sms-je.docx | S16 | Phone, zou(den), Unit 12 vocabulary |
+| s17a-test-zouden-in-depth.docx | S17a | Conditionals, prepositions, vaste verbindingen |
+| s17b-test-ik-weet-echt-niet-wat-ik-wil.docx | S17b | Subordinate clauses, career vocabulary |
 
 ---
 
@@ -127,10 +131,12 @@ Single file:
 pandoc handouts/s1-hallo-kom-binnen.md -o handouts/docx/s1-hallo-kom-binnen.docx
 ```
 
-All session handouts at once:
+All session handouts at once (matched by location, not name prefix, so this
+keeps working when a new quarter renames `sNN-…` files to `unit-NN-…`):
 ```bash
-for f in handouts/s*.md; do
+for f in handouts/*.md; do
   base=$(basename "$f" .md)
+  [ "$base" = README ] && continue
   pandoc "$f" -o "handouts/docx/${base}.docx"
 done
 ```
@@ -205,9 +211,11 @@ done
 ### Everything at once
 
 ```bash
-# Session handouts
-for f in handouts/s*.md; do
-  pandoc "$f" -o "handouts/docx/$(basename ${f%.md}).docx"
+# Session handouts (any naming: sNN-… or unit-NN-…; skips README)
+for f in handouts/*.md; do
+  base=$(basename "$f" .md)
+  [ "$base" = README ] && continue
+  pandoc "$f" -o "handouts/docx/${base}.docx"
 done
 
 # Tests
@@ -215,11 +223,18 @@ for f in handouts/tests/*.md; do
   pandoc "$f" -o "handouts/docx/tests/$(basename ${f%.md}).docx"
 done
 
-# Reference sheets
+# Reference sheets (Dutch + English)
 for f in handouts/references/reference-*.md; do
   pandoc "$f" -o "handouts/docx/references/$(basename ${f%.md}).docx"
 done
+mkdir -p handouts/docx/references/en
+for f in handouts/references/en/reference-*.md; do
+  pandoc "$f" -o "handouts/docx/references/en/$(basename ${f%.md}).docx"
+done
 ```
+
+> In practice, just run `make docx` — it covers every category above, including
+> `references/en/`, with the same location-based matching.
 
 ---
 
