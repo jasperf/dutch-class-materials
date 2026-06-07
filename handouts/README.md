@@ -13,7 +13,9 @@ handouts/
 ├── references/                        # Standalone grammar/vocabulary reference sheets
 │   ├── reference-numbers-10-100.md
 │   ├── reference-je-jij-jou.md
-│   └── reference-bijvoeglijke-naamwoorden.md
+│   ├── reference-bijvoeglijke-naamwoorden.md
+│   └── en/                            # English-language reference sheets
+│       └── reference-zouden.md
 ├── teacher/                           # Teacher-only materials (scripts, answer keys)
 │   ├── s8-luistertoets-leraar.md
 │   ├── s9-luistertoets-leraar.md
@@ -24,7 +26,8 @@ handouts/
 │       ├── s9-luistertoets-student.md
 │       ├── s12-luistertoets-student.md
 │       ├── s16-icebreaker-weekend.md
-│       └── s16-icebreaker-drie-studenten.md
+│       ├── s16-icebreaker-drie-studenten.md
+│       └── s17a-gesprek-loterij.md
 ├── tests/                             # Per-session tests (markdown)
 │   ├── s1-test-hallo-kom-binnen.md
 │   ├── s2-test-wat-doe-je.md

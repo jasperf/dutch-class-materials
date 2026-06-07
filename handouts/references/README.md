@@ -15,6 +15,10 @@ These are not tied to a single session — they can be handed out any time the t
 | [reference-scheidbare-wws-en-voltooid-deelwoord.md](reference-scheidbare-wws-en-voltooid-deelwoord.md) | Scheidbare werkwoorden & voltooid deelwoord | Unit 9 |
 | [reference-negatie-niet-geen-wel-nooit.md](reference-negatie-niet-geen-wel-nooit.md) | Niet / Geen / Wel / Nooit — negatie en positie | Unit 10–11 |
 
+## English-language sheets
+
+Reference sheets written in English live in [`en/`](en/) — see [en/README.md](en/README.md).
+
 ## DOCX versions
 
 DOCX exports are in [`../docx/references/`](../docx/references/).

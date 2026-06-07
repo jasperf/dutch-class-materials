@@ -15,6 +15,7 @@ TEST_SRC      := $(wildcard handouts/tests/*.md)
 TEACHER_SRC   := $(wildcard handouts/teacher/*.md)
 STUDENTQ_SRC  := $(wildcard handouts/teacher/student-questions/*.md)
 REF_SRC       := $(wildcard handouts/references/reference-*.md)
+REF_EN_SRC    := $(wildcard handouts/references/en/reference-*.md)
 
 .DEFAULT_GOAL := help
 
@@ -54,10 +55,11 @@ docx-studentq: ## Student-question sheets -> handouts/docx/teacher/student-quest
 	@$(foreach f,$(STUDENTQ_SRC),$(PANDOC) "$(f)" -o "handouts/docx/teacher/student-questions/$(notdir $(f:.md=.docx))" &&) true
 	@echo "  student-questions: $(words $(STUDENTQ_SRC)) file(s)"
 
-docx-refs: ## Reference sheets -> handouts/docx/references/
-	@mkdir -p handouts/docx/references
+docx-refs: ## Reference sheets -> handouts/docx/references/ (NL) and references/en/ (EN)
+	@mkdir -p handouts/docx/references handouts/docx/references/en
 	@$(foreach f,$(REF_SRC),$(PANDOC) "$(f)" -o "handouts/docx/references/$(notdir $(f:.md=.docx))" &&) true
-	@echo "  references: $(words $(REF_SRC)) file(s)"
+	@$(foreach f,$(REF_EN_SRC),$(PANDOC) "$(f)" -o "handouts/docx/references/en/$(notdir $(f:.md=.docx))" &&) true
+	@echo "  references: $(words $(REF_SRC)) NL + $(words $(REF_EN_SRC)) EN file(s)"
 
 emails: ## Regenerate pre-class emails from emails/_generate.py
 	$(PYTHON) emails/_generate.py

@@ -109,6 +109,7 @@ def check_renames():
         "handouts/teacher/*.md",
         "handouts/teacher/student-questions/*.md",
         "handouts/references/*.md",
+        "handouts/references/en/*.md",
     ):
         sources += glob.glob(os.path.join(ROOT, pat))
     source_stems = {os.path.splitext(os.path.basename(p))[0] for p in sources}
