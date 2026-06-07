@@ -18,7 +18,7 @@ REF_SRC       := $(wildcard handouts/references/reference-*.md)
 
 .DEFAULT_GOAL := help
 
-.PHONY: help docx docx-handouts docx-tests docx-teacher docx-studentq docx-refs emails check clean-docx
+.PHONY: help docx docx-one docx-handouts docx-tests docx-teacher docx-studentq docx-refs emails check clean-docx
 
 help: ## Show this help
 	@echo "Dutch class materials — available targets:"
@@ -26,6 +26,13 @@ help: ## Show this help
 		| awk -F':.*## ' '{printf "  \033[36m%-16s\033[0m %s\n", $$1, $$2}'
 
 docx: docx-handouts docx-tests docx-teacher docx-studentq docx-refs ## Regenerate every docx (gitignored output)
+
+docx-one: ## Regenerate chosen file(s): make docx-one FILE="handouts/s17a-zouden-in-depth.md ..."
+ifndef FILE
+	$(error Set FILE=... e.g. make docx-one FILE=handouts/s17a-zouden-in-depth.md)
+endif
+	@$(foreach f,$(FILE),out="handouts/docx/$(patsubst handouts/%,%,$(f:.md=.docx))"; \
+		mkdir -p "$$(dirname "$$out")"; $(PANDOC) "$(f)" -o "$$out"; echo "  -> $$out";)
 
 docx-handouts: ## Session handouts -> handouts/docx/
 	@mkdir -p handouts/docx

@@ -151,6 +151,14 @@ make docx          # handouts, tests, teacher, student-questions, references
 After renaming markdown, run `make clean-docx && make docx` so the export folder
 doesn't keep orphaned old-named files.
 
+To regenerate just one file (or a few) without rebuilding everything — handy when
+you've only edited a single handout or test — pass `FILE`:
+```bash
+make docx-one FILE=handouts/s17a-zouden-in-depth.md
+make docx-one FILE="handouts/s17a-zouden-in-depth.md handouts/tests/s17a-test-zouden-in-depth.md"
+```
+It auto-routes each source to the matching `handouts/docx/...` sub-folder.
+
 ## Pre-flight consistency check
 
 Before committing a re-dated or renamed quarter, run:
