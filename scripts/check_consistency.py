@@ -103,8 +103,11 @@ def check_dates():
 def check_renames():
     problems = []
     sources = []
+    # Match session handouts by location, not name prefix, so unit-based renames
+    # (s17a-… -> unit-12-…) in a new quarter stay covered. README.md is skipped
+    # below by stem.
     for pat in (
-        "handouts/s*.md",
+        "handouts/*.md",
         "handouts/tests/*.md",
         "handouts/teacher/*.md",
         "handouts/teacher/student-questions/*.md",
@@ -129,9 +132,11 @@ def check_renames():
             problems.append(f"handout source '{stem}.md' is in git but listed in no README table")
 
     # B. every *handout-like* filename mentioned in the READMEs resolves to a
-    #    real source. Restrict to course-material names (sNN-…, reference-…) so
-    #    plain doc cross-links (docs/pdf-export.md, new-quarter.md) aren't flagged.
-    handout_like = re.compile(r"^(?:s\d+[a-z]?-|reference-)")
+    #    real source. Restrict to course-material names (sNN-…, unit-NN-…,
+    #    reference-…) so plain doc cross-links (docs/pdf-export.md,
+    #    new-quarter.md) aren't flagged. The unit-NN- form keeps this check live
+    #    after a new quarter renames session files to unit-based ones.
+    handout_like = re.compile(r"^(?:s\d+[a-z]?-|unit-\d+-|reference-)")
     referenced = set(re.findall(r"([A-Za-z0-9][\w-]*?)\.(?:md|docx)", readme_text))
     for stem in sorted(referenced):
         if stem in source_stems or not handout_like.match(stem):

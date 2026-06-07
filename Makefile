@@ -10,7 +10,12 @@ PYTHON := python3
 
 # Each entry maps a source markdown directory to its docx output directory.
 # Adding a new handout category? Add a line here and a target below.
-HANDOUT_SRC   := $(wildcard handouts/s*.md)
+#
+# Session handouts are matched by location, not name prefix: every top-level
+# markdown in handouts/ except README.md. This keeps "make docx" working when a
+# new quarter renames session-numbered files (s17a-…) to unit-based ones
+# (unit-12-…) or descriptive slugs (midpoint-review.md) — see docs/new-quarter.md.
+HANDOUT_SRC   := $(filter-out handouts/README.md,$(wildcard handouts/*.md))
 TEST_SRC      := $(wildcard handouts/tests/*.md)
 TEACHER_SRC   := $(wildcard handouts/teacher/*.md)
 STUDENTQ_SRC  := $(wildcard handouts/teacher/student-questions/*.md)
