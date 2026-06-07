@@ -82,6 +82,15 @@ Do this **once**, when starting a fresh quarter. Afterwards every new quarter is
 a `schedule.md` + email-dates edit and a regenerate — no file renames, no
 header re-dating.
 
+> **Status (as of 2026-06):** Stage 1 has **not been done yet.** Every file in
+> `handouts/` and `handouts/tests/` is still session-keyed (`s1-…`, `s17a-…`)
+> with a `**Datum:**` line in the body. So "use Path B" for a future quarter
+> means doing the one-time refactor below *first*, then the per-quarter setup —
+> it is not yet a minutes-only path. Do the refactor *into* the fresh quarter,
+> never on the running one. The infrastructure is already in place: the Makefile
+> matches handouts by location (so `make docx` survives the rename), `make check`
+> catches drift, and emails are centralised in `_generate.py`.
+
 ### The convention
 
 - **Handouts and tests are named by unit, not session**, and carry **no date**:
