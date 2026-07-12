@@ -56,6 +56,7 @@ This directory contains **DOCX versions** of all handouts, ready for import into
 | S18 | s18-ik-begrijp-precies-hoe-je-je-voelt.docx | Health, emotions | 14 |
 | S19 | s19-units-15-16-survey.docx | Internet, media, revision | 15–16 |
 | S20 | s20-final-session.docx | Final test + feedback | — |
+| S21 | s21-final-rehearsal.docx | Full course review + conversation test + conclusion | 01–16 |
 
 ### Reference sheets (`references/`)
 

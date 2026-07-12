@@ -49,7 +49,7 @@ handouts/
         └── s10-test-midpunt-toets-units-1-8.docx
 ```
 
-## Session List (20 sessions)
+## Session List (21 sessions)
 
 | # | Filename | Topic | Unit | Book pp. |
 |---|----------|-------|------|----------|
@@ -74,6 +74,7 @@ handouts/
 | S18 | s18-ik-begrijp-precies-hoe-je-je-voelt.md | Health, emotions | 14 | 193–208 |
 | S19 | s19-units-15-16-survey.md | Internet, media, revision | 15–16 | 209–243 |
 | S20 | s20-final-session.md | Final test + feedback | — | — |
+| S21 | s21-final-rehearsal.md | Full course review + conversation test + conclusion | 01–16 | — |
 
 ## Usage
 
